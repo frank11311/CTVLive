@@ -1,6 +1,17 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
+    "https://9295.kstore.space/ipv6.txt",
+    "https://9295.kstore.space/ipv4.txt",
+    "https://raw.githubusercontent.com/LuckyLearning/TV/master/local.txt",
+    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
+    "https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+    "https://raw.githubusercontent.com/n3rddd/CTVLive2/main/merged_output.m3u",
+    "https://raw.githubusercontent.com/n3rddd/CTVLive2/main/others_output.txt",
+    "http://175.178.251.183:6689/live.txt",
     "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
     "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
     "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
