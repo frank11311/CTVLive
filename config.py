@@ -1,6 +1,8 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
+    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://9295.kstore.space/ipv6.txt",
     "https://9295.kstore.space/ipv4.txt",
     "https://raw.githubusercontent.com/LuckyLearning/TV/master/local.txt",
