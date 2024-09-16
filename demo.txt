@@ -382,3 +382,75 @@ iHOT 爱喜剧,
 iHOT 爱悬疑,
 iHOT 爱幼教,
 iHOT 爱院线,
+
+体育,#genre#
+精品体育
+睛彩竞技
+睛彩篮球
+超级体育
+纬来体育
+风云足球
+魅力足球
+足球高清
+足球频道
+澳门体育台
+ELEVEN体育
+ELEVEN体育1
+ELEVEN体育2
+央视台球
+天元围棋
+快乐垂钓
+CCTV_兵器科技,
+CCTV_怀旧剧场,
+CCTV_第一剧场,
+CCTV_风云剧场,
+CCTV_风云足球,
+CCTV_风云音乐,
+CCTV_高尔夫·网球,
+CCTV_央视台球,
+CCTV_世界地理,
+
+NewTV,#genre#
+NewTV 精品综合,
+NewTV 精品大剧,
+NewTV 精品纪录,
+NewTV 精品体育,
+NewTV 精品萌宠,
+NewTV 爱情喜剧,
+NewTV 超级电视剧,
+NewTV 超级电影,
+NewTV 超级体育,
+NewTV 超级综艺,
+NewTV 潮妈辣婆,
+NewTV 东北热剧,
+NewTV 动作电影,
+NewTV 古装剧场,
+NewTV 欢乐剧场,
+NewTV 家庭剧场,
+NewTV 金牌综艺,
+NewTV 惊悚悬疑,
+NewTV 军旅剧场,
+NewTV 军事评论,
+NewTV 魅力潇湘,
+NewTV 明星大片,
+NewTV 农业致富,
+NewTV 武博世界,
+NewTV 炫舞未来,
+NewTV 怡伴健康,
+NewTV 中国功夫,
+NewTV 黑莓电影,
+NewTV 黑莓动画,
+NewTV 哒啵电竞,
+NewTV 哒啵赛事,
+SiTV 动漫秀场,
+SiTV 都市剧场,
+SiTV 法治天地,
+SiTV 欢笑剧场,
+SiTV 欢笑剧场-4K,
+SiTV 金色学堂,
+SiTV 劲爆体育,
+SiTV 乐游,
+SiTV 魅力足球,
+SiTV 七彩戏剧,
+SiTV 生活时尚,
+SiTV 游戏风云,
