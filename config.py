@@ -40,10 +40,10 @@ source_urls = [
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8"， #ADDED BY LEM ON 08/09/2024
+    "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt", #ADDED BY LEM ON 29/07/2024
-    "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", 
     "http://ttkx.live:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
