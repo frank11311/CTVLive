@@ -4,13 +4,9 @@ source_urls = [
     "https://9295.kstore.space/ipv6.txt",
     "https://9295.kstore.space/ipv4.txt",
     "https://raw.githubusercontent.com/LuckyLearning/TV/master/local.txt",
-    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
+    "https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
     "https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "https://raw.githubusercontent.com/n3rddd/CTVLive2/main/merged_output.m3u",
-    "https://raw.githubusercontent.com/n3rddd/CTVLive2/main/others_output.txt",
     "http://175.178.251.183:6689/live.txt",
     "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
     "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
@@ -24,7 +20,6 @@ source_urls = [
     "http://free.xiptv.x10.bz/p3p.php", #ADDED BY LEM ON 09/09/2024
     "https://www.stream-link.org/stream-link.m3u", #ADDED BY LEM ON 31/08/2024
     "http://175.178.251.183:6689/channel.txt",
-    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
@@ -39,12 +34,11 @@ source_urls = [
     "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
     "http://home.jundie.top:81/Cat/tv/live.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
-    "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
     "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt",
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", #ADDED BY LEM ON 08/09/2024
+    "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8"， #ADDED BY LEM ON 08/09/2024
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", #ADDED BY LEM ON 29/07/2024
