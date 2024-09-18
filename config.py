@@ -42,7 +42,7 @@ source_urls = [
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", 
-    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"，
+    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
     "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", 
     "http://ttkx.live:55/lib/kx2024.txt",
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", 
