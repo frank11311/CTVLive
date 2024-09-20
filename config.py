@@ -10,9 +10,9 @@ source_urls = [
     "https://raw.githubusercontent.com/FRANKASEE/iptv--/refs/heads/main/speedtest/zubo_fofa.txt",
     "https://raw.githubusercontent.com/FRANKASEE/live-1/refs/heads/main/online.txt",
     "https://raw.githubusercontent.com/FRANKASEE/live-1/refs/heads/main/iptv.txt",
-    "http://tv.850930.xyz/kdsb.m3u"， #ADDED BY LEM ON 29/07/2024
-    "http://tv.850930.xyz/kdsb2.m3u"， #ADDED BY LEM ON 31/07/2024
-    "http://tv.850930.xyz/gather.m3u"， #ADDED BY LEM ON 29/07/2024
+    "http://tv.850930.xyz/kdsb.m3u",
+    "http://tv.850930.xyz/kdsb2.m3u",
+    "http://tv.850930.xyz/gather.m3u",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
@@ -21,8 +21,8 @@ source_urls = [
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"， #ADDED BY LEM ON 29/07/2024
-    "http://ttkx.live:55/lib/kx2024.txt"， #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+    "http://ttkx.live:55/lib/kx2024.txt",
 ]
 
 url_blacklist = [
