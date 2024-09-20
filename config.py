@@ -2,6 +2,7 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://m3u.hackserver.net/txt/fmml_ipv6.txt",
+    "https://m3u.hackserver.net/txt/fmml_dv6.txt",
     "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "http://175.178.251.183:6689/live.txt",
     "https://9295.kstore.space/ipv6.txt",
