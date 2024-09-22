@@ -1,9 +1,6 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://m3u.hackserver.net/txt/fmml_ipv6.txt",
-    "https://m3u.hackserver.net/txt/fmml_dv6.txt",
-    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://9295.kstore.space/ipv4.txt",
     "https://raw.githubusercontent.com/FRANKASEE/iTV/refs/heads/main/iptv_list.txt",
     "https://raw.githubusercontent.com/FRANKASEE/tviptv/refs/heads/Files/IPTVlive.m3u",
@@ -14,8 +11,8 @@ source_urls = [
     "http://tv.850930.xyz/kdsb2.m3u",
     "http://tv.850930.xyz/gather.m3u",
     "http://120.79.4.185/new/mdlive.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
+    "https://raw.githubusercontent.com/xingzhe010203/xingzhe/refs/heads/main/IOS-V4.m3u",
+    "https://raw.githubusercontent.com/xingzhe010203/xingzhe/refs/heads/main/IOS-V6.m3u",
     "https://live.zhoujie218.top/tv/iptv6.txt",
     "https://tv.youdu.fan:666/live/",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
