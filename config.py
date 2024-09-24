@@ -1,9 +1,6 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://m3u.hackserver.net/txt/fmml_ipv6.txt",
-    "https://iptv.b2og.com/txt/fmml_ipv6.txt",
-    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://9295.kstore.space/ipv4.txt",
     "https://raw.githubusercontent.com/FRANKASEE/iTV/refs/heads/main/iptv_list.txt",
     "https://raw.githubusercontent.com/FRANKASEE/tviptv/refs/heads/Files/IPTVlive.m3u",
