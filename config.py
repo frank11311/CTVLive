@@ -15,7 +15,6 @@ source_urls = [
     "https://raw.githubusercontent.com/xingzhe010203/xingzhe/refs/heads/main/IOS-V4.m3u",
     "https://tv.youdu.fan:666/live/",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
-    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
     "http://ttkx.live:55/lib/kx2024.txt",
