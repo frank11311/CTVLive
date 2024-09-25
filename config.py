@@ -1,13 +1,13 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://9295.kstore.space/ipv4.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
     "https://raw.githubusercontent.com/FRANKASEE/iTV/refs/heads/main/iptv_list.txt",
     "https://raw.githubusercontent.com/FRANKASEE/tviptv/refs/heads/Files/IPTVlive.m3u",
     "https://raw.githubusercontent.com/FRANKASEE/iptv--/refs/heads/main/speedtest/zubo_fofa.txt",
     "https://raw.githubusercontent.com/FRANKASEE/live-1/refs/heads/main/online.txt",
     "https://raw.githubusercontent.com/FRANKASEE/live-1/refs/heads/main/iptv.txt",
+    "https://9295.kstore.space/ipv4.txt",
     "http://tv.850930.xyz/kdsb.m3u",
     "http://tv.850930.xyz/kdsb2.m3u",
     "http://tv.850930.xyz/gather.m3u",
