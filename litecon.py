@@ -1,24 +1,21 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
-    "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
-    "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
-    "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
-    "http://tv.850930.xyz/kdsb2.m3u", #ADDED BY LEM ON 31/07/2024
-    "http://tv.850930.xyz/kdsb3.m3u", #ADDED BY LEM ON 27/08/2024
-    "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
-    "https://gitcode.net/ygbh66/test/-/raw/master/oh.txt", #ADDED BY LEM ON 10/09/2024
-    "https://raw.githubusercontent.com/hus888yu/app/main/ub.txt", #ADDED BY LEM ON 10/09/2024
-    "https://raw.githubusercontent.com/hus888yu/app/main/p3p.php", #ADDED BY LEM ON 10/09/2024
-    "http://free.xiptv.x10.bz/p3p.php", #ADDED BY LEM ON 09/09/2024
-    "https://www.stream-link.org/stream-link.m3u", #ADDED BY LEM ON 31/08/2024
+    "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+    "https://raw.githubusercontent.com/FRANKASEE/iTV/refs/heads/main/iptv_list.txt",
+    "https://raw.githubusercontent.com/FRANKASEE/tviptv/refs/heads/Files/IPTVlive.m3u",
+    "https://raw.githubusercontent.com/FRANKASEE/iptv--/refs/heads/main/speedtest/zubo_fofa.txt",
+    "https://raw.githubusercontent.com/FRANKASEE/live-1/refs/heads/main/online.txt",
+    "https://raw.githubusercontent.com/FRANKASEE/live-1/refs/heads/main/iptv.txt",
+    "https://9295.kstore.space/ipv4.txt",
+    "http://tv.850930.xyz/kdsb.m3u",
+    "http://tv.850930.xyz/kdsb2.m3u",
+    "http://tv.850930.xyz/gather.m3u",
+    "https://raw.githubusercontent.com/xingzhe010203/xingzhe/refs/heads/main/IOS-V4.m3u",
+    "https://tv.youdu.fan:666/live/",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", #ADDED BY LEM ON 08/09/2024  
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
-    "http://ttkx.live:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
-    "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
-    "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt" #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+    "http://ttkx.live:55/lib/kx2024.txt",
 ]
 
 url_blacklist = [
