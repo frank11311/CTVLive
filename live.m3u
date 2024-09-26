@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2024-09-26 14:52:44
+# 更新时间: 2024-09-26 15:12:09
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$IPV6『线路1』
@@ -2277,6 +2277,180 @@ http://rihou.cc:55/lib/aikan.php?id=cgtna$IPV4『线路10』
 http://rihou.cc:55/lib/aikan.php?id=cgtna$IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CGTN阿语" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN阿语.png" group-title="央视",CGTN阿语
 https://0472.org/hls/cgtna.m3u8$IPV4『线路12』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://111.61.236.247:9081/hls/61/index.m3u8$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://221.198.182.240:8888/udp/225.1.2.166:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://221.198.182.240:8888/udp/225.1.2.166:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://221.198.182.240:8888/udp/225.1.2.166:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://xuys.top:8888/udp/225.1.2.166:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://wsd.saj-web.top:4000/udp/225.1.2.166:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://xuys.top:8888/udp/225.1.2.166:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="央视",CCTV-兵器科技
+http://wsd.saj-web.top:4000/udp/225.1.2.166:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://221.198.182.240:8888/udp/225.1.2.175:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://221.198.182.240:8888/udp/225.1.2.175:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://221.198.182.240:8888/udp/225.1.2.175:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://xuys.top:8888/udp/225.1.2.175:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://wsd.saj-web.top:4000/udp/225.1.2.175:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://xuys.top:8888/udp/225.1.2.175:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="央视",CCTV-第一剧场
+http://wsd.saj-web.top:4000/udp/225.1.2.175:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://111.61.236.247:9081/hls/58/index.m3u8$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://221.198.182.240:8888/udp/225.1.2.168:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://221.198.182.240:8888/udp/225.1.2.168:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://221.198.182.240:8888/udp/225.1.2.168:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://xuys.top:8888/udp/225.1.2.168:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://wsd.saj-web.top:4000/udp/225.1.2.168:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://xuys.top:8888/udp/225.1.2.168:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://wsd.saj-web.top:4000/udp/225.1.2.168:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="央视",CCTV-风云足球
+http://120.76.248.139/live/bfgd/4200000225.m3u8$IPV4『线路9』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://111.61.236.247:9081/hls/62/index.m3u8$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://221.198.182.240:8888/udp/225.1.2.171:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://221.198.182.240:8888/udp/225.1.2.171:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://221.198.182.240:8888/udp/225.1.2.171:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://xuys.top:8888/udp/225.1.2.171:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://wsd.saj-web.top:4000/udp/225.1.2.171:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://xuys.top:8888/udp/225.1.2.171:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://wsd.saj-web.top:4000/udp/225.1.2.171:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="央视",CCTV-世界地理
+http://120.76.248.139/live/bfgd/4200000177.m3u8$IPV4『线路9』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://221.198.182.240:8888/udp/225.1.2.170:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://221.198.182.240:8888/udp/225.1.2.170:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://221.198.182.240:8888/udp/225.1.2.170:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://xuys.top:8888/udp/225.1.2.170:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://wsd.saj-web.top:4000/udp/225.1.2.170:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://xuys.top:8888/udp/225.1.2.170:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="央视",CCTV-央视台球
+http://wsd.saj-web.top:4000/udp/225.1.2.170:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-央视高网" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视高网.png" group-title="央视",CCTV-央视高网
+http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://60.10.225.157:555/rtp/239.253.93.253:6431$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://221.198.182.240:8888/udp/225.1.2.176:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://221.198.182.240:8888/udp/225.1.2.176:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://221.198.182.240:8888/udp/225.1.2.176:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://xuys.top:8888/udp/225.1.2.176:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://wsd.saj-web.top:4000/udp/225.1.2.176:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://xuys.top:8888/udp/225.1.2.176:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="央视",CCTV-风云音乐
+http://wsd.saj-web.top:4000/udp/225.1.2.176:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://60.10.225.157:555/rtp/239.253.93.251:6429$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://221.198.182.240:8888/udp/225.1.2.174:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://221.198.182.240:8888/udp/225.1.2.174:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://221.198.182.240:8888/udp/225.1.2.174:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://xuys.top:8888/udp/225.1.2.174:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://wsd.saj-web.top:4000/udp/225.1.2.174:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://xuys.top:8888/udp/225.1.2.174:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="央视",CCTV-风云剧场
+http://wsd.saj-web.top:4000/udp/225.1.2.174:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://111.61.236.247:9081/hls/67/index.m3u8$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://221.198.182.240:8888/udp/225.1.2.173:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://221.198.182.240:8888/udp/225.1.2.173:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://221.198.182.240:8888/udp/225.1.2.173:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://xuys.top:8888/udp/225.1.2.173:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://wsd.saj-web.top:4000/udp/225.1.2.173:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://xuys.top:8888/udp/225.1.2.173:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://wsd.saj-web.top:4000/udp/225.1.2.173:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://120.76.248.139/live/bfgd/4200000224.m3u8$IPV4『线路9』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-文化精品" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-文化精品.png" group-title="央视",CCTV-文化精品
+http://wouu.net:9977/udp/239.93.42.47:5140$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://111.61.236.247:9081/hls/59/index.m3u8$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://221.198.182.240:8888/udp/225.1.2.172:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://221.198.182.240:8888/udp/225.1.2.172:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://221.198.182.240:8888/udp/225.1.2.172:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://xuys.top:8888/udp/225.1.2.172:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://wsd.saj-web.top:4000/udp/225.1.2.172:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://xuys.top:8888/udp/225.1.2.172:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://wsd.saj-web.top:4000/udp/225.1.2.172:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="央视",CCTV-女性时尚
+http://120.76.248.139/live/bfgd/4200000176.m3u8$IPV4『线路9』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://60.10.225.157:555/rtp/239.253.93.249:6427$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://221.198.182.240:8888/udp/225.1.2.167:5002$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://221.198.182.240:8888/udp/225.1.2.167:5002$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://221.198.182.240:8888/udp/225.1.2.167:5002$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://xuys.top:8888/udp/225.1.2.167:5002$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://wsd.saj-web.top:4000/udp/225.1.2.167:5002$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://xuys.top:8888/udp/225.1.2.167:5002$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://wsd.saj-web.top:4000/udp/225.1.2.167:5002$IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="央视",CCTV-电视指南
+http://120.76.248.139/live/bfgd/4200000164.m3u8$IPV4『线路9』
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视",湖南卫视
@@ -4786,9 +4960,9 @@ P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761$IPV4『线路2
 #EXTINF:-1 tvg-id="23" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="香港",凤凰香港
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$IPV4『线路23』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港台.png" group-title="香港",凤凰香港台
-p3p://108.181.32.169:44949/641022da0005d3069862188000a64525$IPV4『线路1』
+p3p://108.181.32.169:22526/641022da0005d3069862188000a64525$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港台.png" group-title="香港",凤凰香港台
-p3p://108.181.32.169:44949/641022da0005d3069862188000a64525$IPV4『线路2』
+p3p://108.181.32.169:22526/641022da0005d3069862188000a64525$IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/香港卫视.png" group-title="香港",香港卫视
@@ -5390,9 +5564,9 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="美亚电影台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亚电影台.png" group-title="香港",美亚电影台
 https://test.zapi.us.kg/?id=meiah-movies$IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="美亚电影台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亚电影台.png" group-title="香港",美亚电影台
-p3p://108.181.32.169:44949/642525310003ad3cea72ca2155c734c3$IPV4『线路7』
+p3p://108.181.32.169:22526/642525310003ad3cea72ca2155c734c3$IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="美亚电影台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亚电影台.png" group-title="香港",美亚电影台
-p3p://108.181.32.169:44949/642525310003ad3cea72ca2155c734c3$IPV4『线路8』
+p3p://108.181.32.169:22526/642525310003ad3cea72ca2155c734c3$IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="亚洲卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲卫视.png" group-title="香港",亚洲卫视
 https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="亚洲卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲卫视.png" group-title="香港",亚洲卫视
@@ -5480,7 +5654,7 @@ https://test.zapi.us.kg/?id=era-news$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="年代新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/年代新闻.png" group-title="台湾",年代新闻
 P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="年代新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/年代新闻.png" group-title="台湾",年代新闻
-p3p://108.181.32.169:44949/645b2569000acf2fbd624de55e212fb2$IPV4『线路3』
+p3p://108.181.32.169:22526/645b2569000acf2fbd624de55e212fb2$IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="台湾",TVBS
@@ -5832,7 +6006,7 @@ https://test.zapi.us.kg/?id=settv-news$IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="三立新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立新闻.png" group-title="台湾",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="三立新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立新闻.png" group-title="台湾",三立新闻
-p3p://108.181.32.169:44949/64251e23000bcd04ea573d7c0f0a002e$IPV4『线路6』
+p3p://108.181.32.169:22526/64251e23000bcd04ea573d7c0f0a002e$IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="三立戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立戏剧.png" group-title="台湾",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="三立戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立戏剧.png" group-title="台湾",三立戏剧
@@ -5882,7 +6056,7 @@ https://test.zapi.us.kg/?id=videoland-drama$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="纬来电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来电影.png" group-title="台湾",纬来电影
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="纬来电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来电影.png" group-title="台湾",纬来电影
-p3p://108.181.32.169:44949/64251eae0001bef7ea5959e100ae671e$IPV4『线路2』
+p3p://108.181.32.169:22526/64251eae0001bef7ea5959e100ae671e$IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="纬来日本" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来日本.png" group-title="台湾",纬来日本
 rtmp://f13h.mine.nu/sat/tv771$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="纬来日本" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来日本.png" group-title="台湾",纬来日本
@@ -5970,11 +6144,11 @@ P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66$IPV4『线路6
 #EXTINF:-1 tvg-id="7" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="台湾",中天亚洲台
 P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66$IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="台湾",中天亚洲台
-p3p://108.181.32.169:44949/64254f7e000dfed1eb1809855c5735ce$IPV4『线路8』
+p3p://108.181.32.169:22526/64254f7e000dfed1eb1809855c5735ce$IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="爱尔达影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱尔达影剧.png" group-title="台湾",爱尔达影剧
 P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="爱尔达影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱尔达影剧.png" group-title="台湾",爱尔达影剧
-p3p://108.181.32.169:44949/6425243c00046a2eea6f0d4964f8022d$IPV4『线路2』
+p3p://108.181.32.169:22526/6425243c00046a2eea6f0d4964f8022d$IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="靖天资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯.png" group-title="台湾",靖天资讯
 http://litv.zapi.us.kg/?id=4gtv-4gtv065$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="靖天资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯.png" group-title="台湾",靖天资讯
@@ -6533,196 +6707,188 @@ http://113.93.51.38:2000/udp/239.77.0.153:5146$IPV4『线路27』
 http://113.86.204.120:9999/udp/239.10.0.86:1025$IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="求索生活" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/求索生活.png" group-title="影视",求索生活
 http://zmcy.gzcy020.cn:50000/udp/239.77.0.153:5146$IPV4『线路29』
-#EXTINF:-1 tvg-id="1" tvg-name="爱电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱电竞.png" group-title="爱台",爱电竞
-http://171.213.128.130:8123/udp/239.93.42.19:5140$IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱电竞.png" group-title="爱台",爱电竞
-http://171.213.193.30:8888/udp/239.93.42.19:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱电竞.png" group-title="爱台",爱电竞
-http://222.210.162.16:6868/udp/239.93.42.19:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱谍战.png" group-title="爱台",爱谍战
-http://[2409:8087:2801:22:100::47]/wh7f454c46tw114780300_-2127465113/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8?icpid=88888888&RTS=1717815234&from=5&hms_devid=1654&online=1717815234&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱谍战.png" group-title="爱台",爱谍战
-http://171.213.193.30:8888/udp/239.93.42.14:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱谍战.png" group-title="爱台",爱谍战
-http://171.213.128.130:8123/udp/239.93.42.14:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱谍战.png" group-title="爱台",爱谍战
-http://222.210.162.16:6868/udp/239.93.42.14:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱谍战.png" group-title="爱台",爱谍战
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱动漫.png" group-title="爱台",爱动漫
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱电竞.png" group-title="爱台",iHOT爱电竞
+http://gslbserv.itv.cmvideo.cn:80/6000000006000230630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱电竞.png" group-title="爱台",iHOT爱电竞
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000054$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱电竞.png" group-title="爱台",iHOT爱电竞
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000054$IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱谍战.png" group-title="爱台",iHOT爱谍战
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱谍战.png" group-title="爱台",iHOT爱谍战
+http://gslbserv.itv.cmvideo.cn:80/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱谍战.png" group-title="爱台",iHOT爱谍战
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱谍战.png" group-title="爱台",iHOT爱谍战
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱谍战.png" group-title="爱台",iHOT爱谍战
+http://iptv.028028.xyz:8/udp/239.93.42.14:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱谍战.png" group-title="爱台",iHOT爱谍战
+http://iptv.028028.xyz:8/udp/239.93.42.14:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱动漫.png" group-title="爱台",iHOT爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱动漫.png" group-title="爱台",爱动漫
-http://[2409:8087:2801:22:100::58]/wh7f454c46tw4217776971_-290814739/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815042&from=5&ocs=2_2409:8087:2801:20:100::49_80&hms_devid=316&online=1717815042&vqe=3$IPV6『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱动漫.png" group-title="爱台",爱动漫
-http://222.210.162.16:6868/udp/239.93.42.23:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱动漫.png" group-title="爱台",爱动漫
-http://171.213.128.130:8123/udp/239.93.42.23:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱动漫.png" group-title="爱台",爱动漫
-http://171.213.193.30:8888/udp/239.93.42.23:5140$IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱动漫.png" group-title="爱台",爱动漫
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路6』
-#EXTINF:-1 tvg-id="1" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://171.213.193.30:8888/udp/239.93.42.21:5140$IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://171.213.128.130:8123/udp/239.93.42.21:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://222.210.162.16:6868/udp/239.93.42.21:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http:/iptv.028028.xyz:8/udp/239.93.42.21:5140\$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://118.114.168.57:8888/udp/239.93.42.21:5140$IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://118.122.103.228:4022/udp/239.93.42.21:5140$IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http:/iptv.028028.xyz:8/udp/239.93.42.21:5140\$IPV4『线路7』
-#EXTINF:-1 tvg-id="8" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://118.114.168.57:8888/udp/239.93.42.21:5140$IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱怀旧.png" group-title="爱台",爱怀旧
-http://118.122.103.228:4022/udp/239.93.42.21:5140$IPV4『线路9』
-#EXTINF:-1 tvg-id="1" tvg-name="爱经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱经典.png" group-title="爱台",爱经典
-http://171.213.193.30:8888/udp/239.93.42.13:5140$IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱经典.png" group-title="爱台",爱经典
-http://222.210.162.16:6868/udp/239.93.42.13:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱经典.png" group-title="爱台",爱经典
-http://171.213.128.130:8123/udp/239.93.42.13:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="爱台",爱科幻
-http://[2409:8087:2801:22:100::1b]/wh7f454c46tw4118167838_535115963/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814942&from=5&hms_devid=1639&online=1717814942&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="爱台",爱科幻
-http://171.213.193.30:8888/udp/239.93.42.10:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="爱台",爱科幻
-http://171.213.128.130:8123/udp/239.93.42.10:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="爱台",爱科幻
-http://222.210.162.16:6868/udp/239.93.42.10:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="爱台",爱科幻
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科学.png" group-title="爱台",爱科学
-http://[2409:8087:2801:22:100::53]/wh7f454c46tw4244677304_-919452312/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815069&from=5&ocs=2_2409:8087:2801:22:100::68_80&hms_devid=326&online=1717815069&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科学.png" group-title="爱台",爱科学
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="爱浪漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱浪漫.png" group-title="爱台",爱浪漫
-http://[2409:8087:2801:22:100::49]/wh7f454c46tw4029846618_479023006/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814854&from=5&hms_devid=1646&online=1717814854&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱浪漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱浪漫.png" group-title="爱台",爱浪漫
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱历史.png" group-title="爱台",爱历史
-http://[2409:8087:2801:22:100::38]/wh7f454c46tw68680748_1062558753/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8?icpid=88888888&RTS=1717815188&from=5&ocs=2_2409:8087:2801:22:100::5e_80&hms_devid=1643&online=1717815188&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱历史.png" group-title="爱台",爱历史
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱旅行.png" group-title="爱台",爱旅行
-http://[2409:8087:2801:20:100::48]/wh7f454c46tw30781562_-167201032/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8?icpid=88888888&RTS=1717815150&from=5&ocs=2_2409:8087:2801:22:100::43_80&hms_devid=370&online=1717815150&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱旅行.png" group-title="爱台",爱旅行
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="爱台",爱奇谈
-http://[2409:8087:2801:22:100::4e]/wh7f454c46tw4268489154_-897787816/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815093&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=313&online=1717815093&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="爱台",爱奇谈
-http://171.213.128.130:8123/udp/239.93.42.22:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="爱台",爱奇谈
-http://171.213.193.30:8888/udp/239.93.42.22:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="爱台",爱奇谈
-http://222.210.162.16:6868/udp/239.93.42.22:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="爱台",爱奇谈
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱青春.png" group-title="爱台",爱青春
-http://171.213.193.30:8888/udp/239.93.42.16:5140$IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱青春.png" group-title="爱台",爱青春
-http://171.213.128.130:8123/udp/239.93.42.16:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱青春.png" group-title="爱台",爱青春
-http://222.210.162.16:6868/udp/239.93.42.16:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱赛车.png" group-title="爱台",爱赛车
-http://[2409:8087:2801:22:100::1b]/wh7f454c46tw3733665_-1120959913/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?icpid=88888888&RTS=1717815123&from=5&hms_devid=1639&online=1717815123&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱赛车.png" group-title="爱台",爱赛车
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://[2409:8087:2801:22:100::78]/wh7f454c46tw145633917_1933474269/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8?icpid=88888888&RTS=1717815265&from=5&ocs=2_2409:8087:2801:22:100::36_80&hms_devid=2528&online=1717815265&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://219.156.53.205:9999/rtp/225.1.4.168:1220$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://219.156.53.210:9999/rtp/225.1.4.168:1220$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://182.138.120.226:8888/udp/239.93.0.135:9008$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://182.138.120.226:8888/udp/239.93.0.135:9008$IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://182.138.120.226:8888/udp/239.93.0.135:9008$IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://222.140.162.245:9999/rtp/225.1.4.5:1034$IPV4『线路7』
-#EXTINF:-1 tvg-id="8" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://221.15.227.40:8181/rtp/225.1.4.5:1034$IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://221.15.227.40:8181/rtp/225.1.4.168:1220$IPV4『线路9』
-#EXTINF:-1 tvg-id="10" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.0.176:5146$IPV4『线路10』
-#EXTINF:-1 tvg-id="11" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.1.116:5146$IPV4『线路11』
-#EXTINF:-1 tvg-id="12" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.0.108:5146$IPV4『线路12』
-#EXTINF:-1 tvg-id="13" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.1.77:5146$IPV4『线路13』
-#EXTINF:-1 tvg-id="14" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.0.176:5146$IPV4『线路14』
-#EXTINF:-1 tvg-id="15" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.1.116:5146$IPV4『线路15』
-#EXTINF:-1 tvg-id="16" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.0.108:5146$IPV4『线路16』
-#EXTINF:-1 tvg-id="17" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://120.237.241.82:4000/udp/239.77.1.77:5146$IPV4『线路17』
-#EXTINF:-1 tvg-id="18" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://113.66.228.67:8090/udp/239.77.0.176:5146$IPV4『线路18』
-#EXTINF:-1 tvg-id="19" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://113.66.228.67:8090/udp/239.77.1.116:5146$IPV4『线路19』
-#EXTINF:-1 tvg-id="20" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://113.66.228.67:8090/udp/239.77.0.108:5146$IPV4『线路20』
-#EXTINF:-1 tvg-id="21" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="爱台",爱体育
-http://113.66.228.67:8090/udp/239.77.1.77:5146$IPV4『线路21』
-#EXTINF:-1 tvg-id="1" tvg-name="爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱玩具.png" group-title="爱台",爱玩具
-http://[2409:8087:2801:22:100::45]/wh7f454c46tw4182207783_2122969168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815006&from=5&hms_devid=1640&online=1717815006&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱玩具.png" group-title="爱台",爱玩具
-http://222.210.162.16:6868/udp/239.93.42.18:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱玩具.png" group-title="爱台",爱玩具
-http://171.213.193.30:8888/udp/239.93.42.18:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱玩具.png" group-title="爱台",爱玩具
-http://171.213.128.130:8123/udp/239.93.42.18:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱玩具.png" group-title="爱台",爱玩具
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱喜剧.png" group-title="爱台",爱喜剧
-http://[2409:8087:2801:22:100::78]/wh7f454c46tw4094367900_2057884996/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814919&from=5&ocs=2_2409:8087:2801:22:100::47_80&hms_devid=2528&online=1717814919&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱喜剧.png" group-title="爱台",爱喜剧
-http://222.210.162.16:6868/udp/239.93.42.9:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱喜剧.png" group-title="爱台",爱喜剧
-http://171.213.128.130:8123/udp/239.93.42.9:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱喜剧.png" group-title="爱台",爱喜剧
-http://171.213.193.30:8888/udp/239.93.42.9:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱喜剧.png" group-title="爱台",爱喜剧
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱悬疑.png" group-title="爱台",爱悬疑
-http://[2409:8087:2801:22:100::40]/wh7f454c46tw94277353_-524303085/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8?icpid=88888888&RTS=1717815213&from=5&hms_devid=1642&online=1717815213&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱悬疑.png" group-title="爱台",爱悬疑
-http://222.210.162.16:6868/udp/239.93.42.12:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱悬疑.png" group-title="爱台",爱悬疑
-http://171.213.193.30:8888/udp/239.93.42.12:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱悬疑.png" group-title="爱台",爱悬疑
-http://171.213.128.130:8123/udp/239.93.42.12:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱悬疑.png" group-title="爱台",爱悬疑
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱幼教.png" group-title="爱台",爱幼教
-http://[2409:8087:2801:22:100::54]/wh7f454c46tw4147805699_1970816102/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814972&from=5&ocs=2_2409:8087:2801:22:100::42_80&hms_devid=308&online=1717814972&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱幼教.png" group-title="爱台",爱幼教
-http://171.213.128.130:8123/udp/239.93.42.17:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱幼教.png" group-title="爱台",爱幼教
-http://222.210.162.16:6868/udp/239.93.42.17:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱幼教.png" group-title="爱台",爱幼教
-http://171.213.193.30:8888/udp/239.93.42.17:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱幼教.png" group-title="爱台",爱幼教
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="爱台",爱院线
-http://[2409:8087:2801:20:100::47]/wh7f454c46tw4067142793_-71268132/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814891&from=5&ocs=2_2409:8087:2801:22:100::46_80&hms_devid=372&online=1717814891&vqe=3$IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="爱台",爱院线
-http://171.213.128.130:8123/udp/239.93.42.11:5140$IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="爱台",爱院线
-http://222.210.162.16:6868/udp/239.93.42.11:5140$IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="爱台",爱院线
-http://171.213.193.30:8888/udp/239.93.42.11:5140$IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="爱台",爱院线
-http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱动漫.png" group-title="爱台",iHOT爱动漫
+http://gslbserv.itv.cmvideo.cn:80/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱动漫.png" group-title="爱台",iHOT爱动漫
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱动漫.png" group-title="爱台",iHOT爱动漫
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱动漫.png" group-title="爱台",iHOT爱动漫
+http://iptv.028028.xyz:8/udp/239.93.42.23:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱动漫.png" group-title="爱台",iHOT爱动漫
+http://iptv.028028.xyz:8/udp/239.93.42.23:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱都市" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱都市.png" group-title="爱台",iHOT爱都市
+http://gslbserv.itv.cmvideo.cn:80/6000000006000080630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱怀旧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱怀旧.png" group-title="爱台",iHOT爱怀旧
+http://gslbserv.itv.cmvideo.cn:80/6000000006000260630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱经典.png" group-title="爱台",iHOT爱经典
+http://gslbserv.itv.cmvideo.cn:80/6000000006000060630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱经典.png" group-title="爱台",iHOT爱经典
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱经典.png" group-title="爱台",iHOT爱经典
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037$IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科幻.png" group-title="爱台",iHOT爱科幻
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科幻.png" group-title="爱台",iHOT爱科幻
+http://gslbserv.itv.cmvideo.cn:80/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科幻.png" group-title="爱台",iHOT爱科幻
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科幻.png" group-title="爱台",iHOT爱科幻
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科幻.png" group-title="爱台",iHOT爱科幻
+http://iptv.028028.xyz:8/udp/239.93.42.10:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科幻.png" group-title="爱台",iHOT爱科幻
+http://iptv.028028.xyz:8/udp/239.93.42.10:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科学.png" group-title="爱台",iHOT爱科学
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科学.png" group-title="爱台",iHOT爱科学
+http://gslbserv.itv.cmvideo.cn:80/6000000006000160630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科学.png" group-title="爱台",iHOT爱科学
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱科学.png" group-title="爱台",iHOT爱科学
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047$IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱浪漫.png" group-title="爱台",iHOT爱浪漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱浪漫.png" group-title="爱台",iHOT爱浪漫
+http://gslbserv.itv.cmvideo.cn:80/6000000006000040630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱浪漫.png" group-title="爱台",iHOT爱浪漫
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000035$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱浪漫.png" group-title="爱台",iHOT爱浪漫
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000035$IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱历史.png" group-title="爱台",iHOT爱历史
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱历史.png" group-title="爱台",iHOT爱历史
+http://gslbserv.itv.cmvideo.cn:80/6000000006000150630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱历史.png" group-title="爱台",iHOT爱历史
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱历史.png" group-title="爱台",iHOT爱历史
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046$IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱旅行.png" group-title="爱台",iHOT爱旅行
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱旅行.png" group-title="爱台",iHOT爱旅行
+http://gslbserv.itv.cmvideo.cn:80/6000000006000250630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱旅行.png" group-title="爱台",iHOT爱旅行
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000056$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱旅行.png" group-title="爱台",iHOT爱旅行
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000056$IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱奇谈.png" group-title="爱台",iHOT爱奇谈
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱奇谈.png" group-title="爱台",iHOT爱奇谈
+http://gslbserv.itv.cmvideo.cn:80/6000000006000270630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱奇谈.png" group-title="爱台",iHOT爱奇谈
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000058$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱奇谈.png" group-title="爱台",iHOT爱奇谈
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000058$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱奇谈.png" group-title="爱台",iHOT爱奇谈
+http://iptv.028028.xyz:8/udp/239.93.42.22:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱奇谈.png" group-title="爱台",iHOT爱奇谈
+http://iptv.028028.xyz:8/udp/239.93.42.22:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱青春.png" group-title="爱台",iHOT爱青春
+http://gslbserv.itv.cmvideo.cn:80/6000000006000100630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3$IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱青春.png" group-title="爱台",iHOT爱青春
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000041$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱青春.png" group-title="爱台",iHOT爱青春
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000041$IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱赛车.png" group-title="爱台",iHOT爱赛车
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱赛车.png" group-title="爱台",iHOT爱赛车
+http://gslbserv.itv.cmvideo.cn:80/6000000006000240630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱赛车.png" group-title="爱台",iHOT爱赛车
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000055$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱赛车.png" group-title="爱台",iHOT爱赛车
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000055$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱赛车.png" group-title="爱台",iHOT爱赛车
+http://iptv.028028.xyz:8/udp/239.93.42.20:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱赛车.png" group-title="爱台",iHOT爱赛车
+http://iptv.028028.xyz:8/udp/239.93.42.20:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱体育.png" group-title="爱台",iHOT爱体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱体育.png" group-title="爱台",iHOT爱体育
+http://gslbserv.itv.cmvideo.cn:80/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱体育.png" group-title="爱台",iHOT爱体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱体育.png" group-title="爱台",iHOT爱体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060$IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱玩具.png" group-title="爱台",iHOT爱玩具
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱玩具.png" group-title="爱台",iHOT爱玩具
+http://gslbserv.itv.cmvideo.cn:80/6000000006000220630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱玩具.png" group-title="爱台",iHOT爱玩具
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱玩具.png" group-title="爱台",iHOT爱玩具
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱玩具.png" group-title="爱台",iHOT爱玩具
+http://iptv.028028.xyz:8/udp/239.93.42.18:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱玩具.png" group-title="爱台",iHOT爱玩具
+http://iptv.028028.xyz:8/udp/239.93.42.18:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱喜剧.png" group-title="爱台",iHOT爱喜剧
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱喜剧.png" group-title="爱台",iHOT爱喜剧
+http://gslbserv.itv.cmvideo.cn:80/6000000006000010630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱喜剧.png" group-title="爱台",iHOT爱喜剧
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000032$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱喜剧.png" group-title="爱台",iHOT爱喜剧
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000032$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱喜剧.png" group-title="爱台",iHOT爱喜剧
+http://iptv.028028.xyz:8/udp/239.93.42.9:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱喜剧.png" group-title="爱台",iHOT爱喜剧
+http://iptv.028028.xyz:8/udp/239.93.42.9:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱悬疑.png" group-title="爱台",iHOT爱悬疑
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱悬疑.png" group-title="爱台",iHOT爱悬疑
+http://gslbserv.itv.cmvideo.cn:80/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱悬疑.png" group-title="爱台",iHOT爱悬疑
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱悬疑.png" group-title="爱台",iHOT爱悬疑
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱悬疑.png" group-title="爱台",iHOT爱悬疑
+http://iptv.028028.xyz:8/udp/239.93.42.12:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱悬疑.png" group-title="爱台",iHOT爱悬疑
+http://iptv.028028.xyz:8/udp/239.93.42.12:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱幼教.png" group-title="爱台",iHOT爱幼教
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱幼教.png" group-title="爱台",iHOT爱幼教
+http://gslbserv.itv.cmvideo.cn:80/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱幼教.png" group-title="爱台",iHOT爱幼教
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱幼教.png" group-title="爱台",iHOT爱幼教
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱幼教.png" group-title="爱台",iHOT爱幼教
+http://iptv.028028.xyz:8/udp/239.93.42.17:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱幼教.png" group-title="爱台",iHOT爱幼教
+http://iptv.028028.xyz:8/udp/239.93.42.17:5140$IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱院线.png" group-title="爱台",iHOT爱院线
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱院线.png" group-title="爱台",iHOT爱院线
+http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱院线.png" group-title="爱台",iHOT爱院线
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱院线.png" group-title="爱台",iHOT爱院线
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱院线.png" group-title="爱台",iHOT爱院线
+http://iptv.028028.xyz:8/udp/239.93.42.11:5140$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/iHOT爱院线.png" group-title="爱台",iHOT爱院线
+http://iptv.028028.xyz:8/udp/239.93.42.11:5140$IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="精品体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/精品体育.png" group-title="体育",精品体育
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="精品体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/精品体育.png" group-title="体育",精品体育
@@ -7389,8 +7555,96 @@ http://121.63.176.219:8880/udp/239.69.1.83:10138$IPV4『线路18』
 http://101.27.106.176:8888/udp/239.253.93.122:6465$IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/高尔夫网球.png" group-title="收藏台",高尔夫网球
 http://101.27.106.176:8888/udp/239.253.92.117:8062$IPV4『线路20』
+#EXTINF:-1 tvg-id="1" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="收藏台",爱奇谈
+http://[2409:8087:2801:22:100::4e]/wh7f454c46tw4268489154_-897787816/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815093&from=5&ocs=2_2409:8087:2801:22:100::57_80&hms_devid=313&online=1717815093&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="收藏台",爱奇谈
+http://171.213.128.130:8123/udp/239.93.42.22:5140$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="收藏台",爱奇谈
+http://171.213.193.30:8888/udp/239.93.42.22:5140$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="收藏台",爱奇谈
+http://222.210.162.16:6868/udp/239.93.42.22:5140$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="爱奇谈" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱奇谈.png" group-title="收藏台",爱奇谈
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="收藏台",爱科幻
+http://[2409:8087:2801:22:100::1b]/wh7f454c46tw4118167838_535115963/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814942&from=5&hms_devid=1639&online=1717814942&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="收藏台",爱科幻
+http://171.213.193.30:8888/udp/239.93.42.10:5140$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="收藏台",爱科幻
+http://171.213.128.130:8123/udp/239.93.42.10:5140$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="收藏台",爱科幻
+http://222.210.162.16:6868/udp/239.93.42.10:5140$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="爱科幻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科幻.png" group-title="收藏台",爱科幻
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="收藏台",爱院线
+http://[2409:8087:2801:20:100::47]/wh7f454c46tw4067142793_-71268132/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814891&from=5&ocs=2_2409:8087:2801:22:100::46_80&hms_devid=372&online=1717814891&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="收藏台",爱院线
+http://171.213.128.130:8123/udp/239.93.42.11:5140$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="收藏台",爱院线
+http://222.210.162.16:6868/udp/239.93.42.11:5140$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="收藏台",爱院线
+http://171.213.193.30:8888/udp/239.93.42.11:5140$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="爱院线" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱院线.png" group-title="收藏台",爱院线
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://[2409:8087:2801:22:100::78]/wh7f454c46tw145633917_1933474269/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8?icpid=88888888&RTS=1717815265&from=5&ocs=2_2409:8087:2801:22:100::36_80&hms_devid=2528&online=1717815265&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://219.156.53.205:9999/rtp/225.1.4.168:1220$IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://219.156.53.210:9999/rtp/225.1.4.168:1220$IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://182.138.120.226:8888/udp/239.93.0.135:9008$IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://182.138.120.226:8888/udp/239.93.0.135:9008$IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://182.138.120.226:8888/udp/239.93.0.135:9008$IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://222.140.162.245:9999/rtp/225.1.4.5:1034$IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://221.15.227.40:8181/rtp/225.1.4.5:1034$IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://221.15.227.40:8181/rtp/225.1.4.168:1220$IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.0.176:5146$IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.1.116:5146$IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.0.108:5146$IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.1.77:5146$IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.0.176:5146$IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.1.116:5146$IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.0.108:5146$IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://120.237.241.82:4000/udp/239.77.1.77:5146$IPV4『线路17』
+#EXTINF:-1 tvg-id="18" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://113.66.228.67:8090/udp/239.77.0.176:5146$IPV4『线路18』
+#EXTINF:-1 tvg-id="19" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://113.66.228.67:8090/udp/239.77.1.116:5146$IPV4『线路19』
+#EXTINF:-1 tvg-id="20" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://113.66.228.67:8090/udp/239.77.0.108:5146$IPV4『线路20』
+#EXTINF:-1 tvg-id="21" tvg-name="爱体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱体育.png" group-title="收藏台",爱体育
+http://113.66.228.67:8090/udp/239.77.1.77:5146$IPV4『线路21』
+#EXTINF:-1 tvg-id="1" tvg-name="爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱历史.png" group-title="收藏台",爱历史
+http://[2409:8087:2801:22:100::38]/wh7f454c46tw68680748_1062558753/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8?icpid=88888888&RTS=1717815188&from=5&ocs=2_2409:8087:2801:22:100::5e_80&hms_devid=1643&online=1717815188&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱历史" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱历史.png" group-title="收藏台",爱历史
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱旅行.png" group-title="收藏台",爱旅行
+http://[2409:8087:2801:20:100::48]/wh7f454c46tw30781562_-167201032/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8?icpid=88888888&RTS=1717815150&from=5&ocs=2_2409:8087:2801:22:100::43_80&hms_devid=370&online=1717815150&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱旅行" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱旅行.png" group-title="收藏台",爱旅行
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科学.png" group-title="收藏台",爱科学
+http://[2409:8087:2801:22:100::53]/wh7f454c46tw4244677304_-919452312/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815069&from=5&ocs=2_2409:8087:2801:22:100::68_80&hms_devid=326&online=1717815069&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱科学" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱科学.png" group-title="收藏台",爱科学
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱赛车.png" group-title="收藏台",爱赛车
+http://[2409:8087:2801:22:100::1b]/wh7f454c46tw3733665_-1120959913/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?icpid=88888888&RTS=1717815123&from=5&hms_devid=1639&online=1717815123&vqe=3$IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱赛车" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱赛车.png" group-title="收藏台",爱赛车
+http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CBS.png" group-title="Korea",CBS
-p3p://108.181.32.169:44949/641a174a0004ee56bf44b49c077c07d1$IPV4
+p3p://108.181.32.169:22526/641a174a0004ee56bf44b49c077c07d1$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EBS 1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/EBS 1.png" group-title="Korea",EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EBS Kids" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/EBS Kids.png" group-title="Korea",EBS Kids
@@ -7408,7 +7662,7 @@ http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="YTN" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/YTN.png" group-title="Korea",YTN
 P2p://generationnexxxt.com:19806/0d09e3a2d01b42f7921db3ada4647b2b$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="YTN" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/YTN.png" group-title="Korea",YTN
-p3p://108.181.32.169:44949/641a167d000a6426bf41953a1298264b$IPV4『线路2』
+p3p://108.181.32.169:22526/641a167d000a6426bf41953a1298264b$IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/SBS.png" group-title="Korea",SBS
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="SBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/SBS.png" group-title="Korea",SBS
@@ -7416,4 +7670,4 @@ P2p://generationnexxxt.com:19806/52bdf003e484446f83ee00f00fd5b90f$IPV4『线路2
 #EXTINF:-1 tvg-id="1" tvg-name="JTBC" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/JTBC.png" group-title="Korea",JTBC
 P2p://generationnexxxt.com:19806/4ec82c36dd4043df9f31f0b2ee907277$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="jtbc" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/jtbc.png" group-title="Korea",jtbc
-p3p://108.181.32.169:44949/641a1615000b05f0bf3fff2226b2202b$IPV4
+p3p://108.181.32.169:22526/641a1615000b05f0bf3fff2226b2202b$IPV4
