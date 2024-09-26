@@ -2,6 +2,7 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/FRANKASEE/iTV/refs/heads/main/iptv_list.txt",
     "https://raw.githubusercontent.com/FRANKASEE/tviptv/refs/heads/Files/IPTVlive.m3u",
     "https://raw.githubusercontent.com/FRANKASEE/iptv--/refs/heads/main/speedtest/zubo_fofa.txt",
