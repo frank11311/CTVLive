@@ -35216,7 +35216,7 @@ CatchPlay电影台,p3p://108.181.32.169:22526/64252479000b7f1aea6ffd6177e3015c$�
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$雷蒙影视•IPV4『线路11』
 J2,https://test.zapi.us.kg/?id=j2$雷蒙影视•IPV4『线路1』
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn$雷蒙影视•IPV4『线路2』
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$雷蒙影视•IPV4『线路1』
+翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT$雷蒙影视•IPV4『线路1』
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$雷蒙影视•IPV4『线路2』
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$雷蒙影视•IPV4『线路3』
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$雷蒙影视•IPV4『线路4』
@@ -35247,8 +35247,8 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn$雷蒙影视•IPV4『线路2�
 翡翠台,http://m.glx008.com:8000/bysid/1.m3u8$雷蒙影视•IPV4『线路29』
 翡翠台,https://tv.iill.top/MyTV/J$雷蒙影视•IPV4『线路30』
 翡翠台,https://console.567852.xyz/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$雷蒙影视•IPV4『线路31』
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$雷蒙影视•IPV4『线路32』
-翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT$雷蒙影视•IPV4『线路33』
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$雷蒙影视•IPV4『线路32』
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$雷蒙影视•IPV4『线路33』
 翡翠台,http://iptviptv.site:9694/hls/98/index.m3u8$雷蒙影视•IPV4『线路34』
 翡翠台,http://119.125.104.36:9901/tsfile/live/1006_1.m3u8$雷蒙影视•IPV4『线路35』
 翡翠台,https://test.zapi.us.kg/?id=feicui$雷蒙影视•IPV4『线路36』

@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-09-26 15:12:09
+更新时间: 2024-09-26 17:20:12
 
 央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$IPV6『线路1』
@@ -950,6 +950,26 @@ CCTV17,http://125.119.98.154:8888/rtp/233.50.201.35:5140$IPV4『线路40』
 央视台球,http://60.4.3.77:8888/udp/239.253.93.231:6409$IPV4『线路19』
 央视台球,http://121.29.111.254:8888/udp/239.253.93.231:6409$IPV4『线路20』
 央视台球,http://121.29.90.79:7077/udp/239.253.93.231:6409$IPV4『线路21』
+CHC高清电影,http://106.59.3.147:55555/udp/239.200.201.34:8148$IPV4『线路1』
+CHC高清电影,http://118.254.201.45:8888/udp/239.76.245.242:1234$IPV4『线路2』
+CHC高清电影,http://118.79.139.119:6002/rtp/226.0.2.93:8004$IPV4『线路3』
+CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234$IPV4『线路4』
+CHC高清电影,http://gzly.hkychina.com:6002/udp/239.252.219.83:5140$IPV4『线路5』
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/D2N68J37E244E684/N9E90D28495IN71E$IPV4『线路6』
+CHC高清电影,http://125.37.56.52:18888/udp/225.1.1.214:5002$IPV4『线路7』
+CHC高清电影,http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146$IPV4『线路8』
+CHC高清电影,http://113.93.51.38:2000/udp/239.77.0.27:5146$IPV4『线路9』
+CHC高清电影,http://61.134.200.65:8082/rtp/226.0.2.93:8004$IPV4『线路10』
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/3E637AJI03J71D8I/N9E90D28495IN71E$IPV4『线路11』
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/18N963EJEJ5DEJIE/N9E90D28495IN71E$IPV4『线路12』
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/6D698JDD93IDE23J/N9E90D28495IN71E$IPV4『线路13』
+CHC高清电影,http://111.165.222.109:8000/udp/225.1.1.214:5002$IPV4『线路14』
+CHC高清电影,http://113.86.204.120:9999/udp/239.11.0.129:1025$IPV4『线路15』
+CHC高清电影,http://117.41.139.131:9999/udp/239.252.219.83:5140$IPV4『线路16』
+CHC高清电影,http://iptvcyp.top:9901/tsfile/live/1033_1.m3u8$IPV4『线路17』
+CHC高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy$IPV4『线路18』
+CHC高清电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002$IPV4『线路19』
+CHC高清电影,http://116.179.148.44:6000/rtp/226.0.2.93:8004$IPV4『线路20』
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2$IPV6『线路1』
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$IPV6『线路2』
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$IPV6『线路3』
@@ -2506,7 +2526,7 @@ CCTV-电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8$IPV4『线路9
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$IPV4『线路19』
 J2,https://test.zapi.us.kg/?id=j2$IPV4『线路1』
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn$IPV4『线路2』
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$IPV4『线路1』
+TVB翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT$IPV4『线路1』
 TVB翡翠台,http://219.137.203.101:8081/hls/20/index.m3u8$IPV4『线路2』
 TVB翡翠台,http://8.138.7.223/tv/gdmzyd.php?id=1$IPV4『线路3』
 TVB翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$IPV4『线路4』
@@ -3188,26 +3208,6 @@ YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8$IPV4
 茶频道,http:///rtp/239.69.1.144:10500$IPV4『线路21』
 茶频道,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.59:9872$IPV4『线路22』
 影视,#genre#
-CHC高清电影,http://106.59.3.147:55555/udp/239.200.201.34:8148$IPV4『线路1』
-CHC高清电影,http://118.254.201.45:8888/udp/239.76.245.242:1234$IPV4『线路2』
-CHC高清电影,http://118.79.139.119:6002/rtp/226.0.2.93:8004$IPV4『线路3』
-CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234$IPV4『线路4』
-CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/D2N68J37E244E684/N9E90D28495IN71E$IPV4『线路5』
-CHC高清电影,http://125.37.56.52:18888/udp/225.1.1.214:5002$IPV4『线路6』
-CHC高清电影,http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146$IPV4『线路7』
-CHC高清电影,http://113.93.51.38:2000/udp/239.77.0.27:5146$IPV4『线路8』
-CHC高清电影,http://61.134.200.65:8082/rtp/226.0.2.93:8004$IPV4『线路9』
-CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/3E637AJI03J71D8I/N9E90D28495IN71E$IPV4『线路10』
-CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/18N963EJEJ5DEJIE/N9E90D28495IN71E$IPV4『线路11』
-CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/6D698JDD93IDE23J/N9E90D28495IN71E$IPV4『线路12』
-CHC高清电影,http://111.165.222.109:8000/udp/225.1.1.214:5002$IPV4『线路13』
-CHC高清电影,http://113.86.204.120:9999/udp/239.11.0.129:1025$IPV4『线路14』
-CHC高清电影,http://117.41.139.131:9999/udp/239.252.219.83:5140$IPV4『线路15』
-CHC高清电影,http://iptvcyp.top:9901/tsfile/live/1033_1.m3u8$IPV4『线路16』
-CHC高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy$IPV4『线路17』
-CHC高清电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002$IPV4『线路18』
-CHC高清电影,http://116.179.148.44:6000/rtp/226.0.2.93:8004$IPV4『线路19』
-CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/5056AJJ840A2I567/N9E90D28495IN71E$IPV4『线路20』
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn:80/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$IPV4『线路1』
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPV4『线路2』
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPV4『线路3』
