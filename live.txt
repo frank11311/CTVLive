@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2024-10-30 14:43:53
+更新时间: 2024-10-31 02:42:48
 
 央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$IPV6『线路1』
@@ -1075,11 +1075,11 @@ CGTN英语,http://113.109.250.116:9999/udp/239.77.0.199:5146$IPV4『线路7』
 CGTN英语,http://171.88.123.87:4022/udp/239.93.0.104:5140$IPV4『线路8』
 CGTN英语,http://116.28.124.202:8520/udp/239.77.0.199:5146$IPV4『线路9』
 CGTN英语,http://116.22.255.89:9999/udp/239.77.0.199:5146$IPV4『线路10』
-CGTN英语,http://116.18.37.171:4000/udp/239.77.0.199:5146$IPV4『线路11』
+CGTN英语,http://183.30.199.99:8886/udp/239.77.0.199:5146$IPV4『线路11』
 CGTN英语,http://183.236.154.133:8601/udp/239.11.0.103:1025$IPV4『线路12』
 CGTN英语,http://14.21.156.38:8888/udp/239.77.0.199:5146$IPV4『线路13』
-CGTN英语,http://116.18.37.171:4000/udp/239.77.0.199:5146$IPV4『线路14』
-CGTN英语,http://113.109.250.116:9999/udp/239.77.0.199:5146$IPV4『线路15』
+CGTN英语,http://183.30.199.99:8886/udp/239.77.0.199:5146$IPV4『线路14』
+CGTN英语,http://125.92.164.169:8686/udp/239.77.0.199:5146$IPV4『线路15』
 CGTN英语,http://8.138.7.223/tv/cgtn.m3u8$IPV4『线路16』
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8$IPV4『线路17』
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8$IPV4『线路18』
@@ -1738,12 +1738,12 @@ CCTV-电视指南,http://wsd.saj-web.top:4000/udp/225.1.2.167:5002$IPV4『线路
 厦门卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.11:8060$IPV4『线路32』
 厦门卫视,http://14.204.46.247:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4『线路33』
 厦门卫视,http://110.177.146.171:888/udp/239.1.1.71:8071$IPV4『线路34』
-厦门卫视,http://221.218.157.61:3527/rtp/239.3.1.143:4120$IPV4『线路35』
+厦门卫视,http://123.117.36.74:4001/rtp/239.3.1.143:4120$IPV4『线路35』
 厦门卫视,http://114.254.188.49:9999/rtp/239.3.1.143:4120$IPV4『线路36』
 厦门卫视,http://148.135.106.175:5000/itv/ystenlive/1000000005000266006$IPV4『线路37』
 厦门卫视,http://gslbserv.itv.cmvideo.cn:80/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3$IPV4『线路38』
-厦门卫视,http://223.12.113.32:8083/udp/239.1.1.71:8071$IPV4『线路39』
-厦门卫视,http://42.237.180.245:4000/rtp/225.1.4.95:1124$IPV4『线路40』
+厦门卫视,http://1.70.32.208:8083/udp/239.1.1.71:8071$IPV4『线路39』
+厦门卫视,http://223.12.113.32:8083/udp/239.1.1.71:8071$IPV4『线路40』
 南方卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6『线路1』
 南方卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6『线路2』
 南方卫视,http://49.77.104.103:8554/udp/239.49.1.249:6000$IPV4『线路3』
@@ -1752,7 +1752,7 @@ CCTV-电视指南,http://wsd.saj-web.top:4000/udp/225.1.2.167:5002$IPV4『线路
 南方卫视,http://111.199.232.88:18888/rtp/239.3.1.161:8001$IPV4『线路6』
 南方卫视,http://coolcat.synology.me:4022/rtp/239.3.1.161:8001$IPV4『线路7』
 南方卫视,http://coolcat.synology.me:4022/rtp/239.3.1.161:8001$IPV4『线路8』
-南方卫视,http://221.218.157.61:3527/rtp/239.3.1.161:8001$IPV4『线路9』
+南方卫视,http://123.117.36.74:4001/rtp/239.3.1.161:8001$IPV4『线路9』
 南方卫视,http://114.254.188.49:9999/rtp/239.3.1.161:8001$IPV4『线路10』
 南方卫视,http://112.89.85.22/PLTV/88888973/224/3221225724/10000100000000060000000000334167_0.smil/01.m3u8?fmt=ts2hls$IPV4『线路11』
 南方卫视,http://112.89.121.21:80/PLTV/88888973/224/3221225724/10000100000000060000000000334167_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkQyJ1/QCjaDX1hkMu/sXTY:20181110091937,END&GuardEncType=2$IPV4『线路12』
@@ -3255,10 +3255,10 @@ NewTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8
 求索纪录,http://106.116.3.151:8890/rtp/239.254.201.176:7221$IPV4『线路18』
 求索纪录,http://116.28.124.202:8520/udp/239.77.0.21:5146$IPV4『线路19』
 求索纪录,http://116.22.255.89:9999/udp/239.77.0.21:5146$IPV4『线路20』
-求索纪录,http://116.18.37.171:4000/udp/239.77.0.21:5146$IPV4『线路21』
+求索纪录,http://183.30.199.99:8886/udp/239.77.0.21:5146$IPV4『线路21』
 求索纪录,http://14.21.156.38:8888/udp/239.77.0.21:5146$IPV4『线路22』
-求索纪录,http://116.18.37.171:4000/udp/239.77.0.21:5146$IPV4『线路23』
-求索纪录,http://113.109.250.116:9999/udp/239.77.0.21:5146$IPV4『线路24』
+求索纪录,http://183.30.199.99:8886/udp/239.77.0.21:5146$IPV4『线路23』
+求索纪录,http://125.92.164.169:8686/udp/239.77.0.21:5146$IPV4『线路24』
 求索纪录,http://ott.cqccn.com/PLTV/88888888/224/3221227466/index.m3u8$IPV4『线路25』
 求索纪录,http://8.138.7.223/tv/cqyx2.php?id=qsjlHD$IPV4『线路26』
 求索纪录,http://www.xingwen.online:9810/rtp/239.253.93.236:6414$IPV4『线路27』
@@ -3309,11 +3309,11 @@ NewTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8
 求索生活,http://gslbserv.itv.cmvideo.cn:80/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3$IPV4『线路12』
 求索生活,http://116.28.124.202:8520/udp/239.77.0.153:5146$IPV4『线路13』
 求索生活,http://116.22.255.89:9999/udp/239.77.0.153:5146$IPV4『线路14』
-求索生活,http://116.18.37.171:4000/udp/239.77.0.153:5146$IPV4『线路15』
+求索生活,http://183.30.199.99:8886/udp/239.77.0.153:5146$IPV4『线路15』
 求索生活,http://183.236.154.133:8601/udp/239.10.0.86:1025$IPV4『线路16』
 求索生活,http://14.21.156.38:8888/udp/239.77.0.153:5146$IPV4『线路17』
-求索生活,http://116.18.37.171:4000/udp/239.77.0.153:5146$IPV4『线路18』
-求索生活,http://113.109.250.116:9999/udp/239.77.0.153:5146$IPV4『线路19』
+求索生活,http://183.30.199.99:8886/udp/239.77.0.153:5146$IPV4『线路18』
+求索生活,http://125.92.164.169:8686/udp/239.77.0.153:5146$IPV4『线路19』
 求索生活,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路20』
 求索生活,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路21』
 求索生活,http://tvbox6.com/tv/bfgd.php?id=288$IPV4『线路22』
@@ -3580,7 +3580,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741$IPV4『线路5』
 天元围棋,http://61.55.46.35:4022/rtp/239.253.93.211:6389$IPV4『线路8』
 天元围棋,http://61.55.13.136:4000/rtp/239.253.93.211:6389$IPV4『线路9』
 天元围棋,http://222.211.162.32:1880/udp/239.93.42.55:5140$IPV4『线路10』
-天元围棋,http://220.166.249.164:4000/udp/239.93.42.55:5140$IPV4『线路11』
+天元围棋,http://171.213.194.169:888/udp/239.93.42.55:5140$IPV4『线路11』
 天元围棋,http://222.212.152.26:4443/udp/239.93.42.55:5140$IPV4『线路12』
 天元围棋,http://61.55.46.35:4022/udp/239.253.93.211:6389$IPV4『线路13』
 天元围棋,http://121.29.111.242:8888/udp/239.253.93.211:6389$IPV4『线路14』
@@ -3655,62 +3655,45 @@ NewTV 哒啵赛事,http://148.135.106.175:5000/itv/ystenlive/1000000001000003775
 NewTV 哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3$IPV4『线路2』
 SiTV 动漫秀场,http://148.135.106.175:5000/itv/bestzb/5000000011000031113$IPV4『线路1』
 SiTV 动漫秀场,http://gslbserv.itv.cmvideo.cn:80/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3$IPV4『线路2』
-SiTV 动漫秀场,http://1.196.154.165:2010/rtp/239.16.10.234:2000$IPV4『线路3』
-SiTV 动漫秀场,http://1.196.154.165:2010/rtp/239.16.20.40:10400$IPV4『线路4』
-SiTV 动漫秀场,http://106.42.108.91:2002/rtp/239.16.10.234:2000$IPV4『线路5』
-SiTV 动漫秀场,http://106.42.108.91:2002/rtp/239.16.20.40:10400$IPV4『线路6』
+SiTV 动漫秀场,http://106.42.108.91:2002/rtp/239.16.10.234:2000$IPV4『线路3』
+SiTV 动漫秀场,http://106.42.108.91:2002/rtp/239.16.20.40:10400$IPV4『线路4』
 SiTV 都市剧场,http://148.135.106.175:5000/itv/bestzb/5000000011000031111$IPV4『线路1』
 SiTV 都市剧场,http://gslbserv.itv.cmvideo.cn:80/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3$IPV4『线路2』
-SiTV 都市剧场,http://1.196.154.165:2010/rtp/239.16.10.232:2000$IPV4『线路3』
-SiTV 都市剧场,http://1.196.154.165:2010/rtp/239.16.20.38:10380$IPV4『线路4』
-SiTV 都市剧场,http://106.42.108.91:2002/rtp/239.16.10.232:2000$IPV4『线路5』
-SiTV 都市剧场,http://106.42.108.91:2002/rtp/239.16.20.38:10380$IPV4『线路6』
+SiTV 都市剧场,http://106.42.108.91:2002/rtp/239.16.10.232:2000$IPV4『线路3』
+SiTV 都市剧场,http://106.42.108.91:2002/rtp/239.16.20.38:10380$IPV4『线路4』
 SiTV 法治天地,http://148.135.106.175:5000/itv/bestzb/9001547084732463424$IPV4『线路1』
 SiTV 法治天地,http://gslbserv.itv.cmvideo.cn:80/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3$IPV4『线路2』
-SiTV 法治天地,http://1.196.154.165:2010/rtp/239.16.20.156:11560$IPV4『线路3』
-SiTV 法治天地,http://1.196.154.165:2010/rtp/239.16.10.254:2000$IPV4『线路4』
-SiTV 法治天地,http://106.42.108.91:2002/rtp/239.16.20.156:11560$IPV4『线路5』
-SiTV 法治天地,http://106.42.108.91:2002/rtp/239.16.10.254:2000$IPV4『线路6』
+SiTV 法治天地,http://106.42.108.91:2002/rtp/239.16.20.156:11560$IPV4『线路3』
+SiTV 法治天地,http://106.42.108.91:2002/rtp/239.16.10.254:2000$IPV4『线路4』
 SiTV 欢笑剧场,http://148.135.106.175:5000/itv/bestzb/5000000002000009455$IPV4『线路1』
 SiTV 欢笑剧场,http://gslbserv.itv.cmvideo.cn:80/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3$IPV4『线路2』
-SiTV 欢笑剧场,http://1.196.154.165:2010/rtp/239.16.10.233:2000$IPV4『线路3』
-SiTV 欢笑剧场,http://1.196.154.165:2010/rtp/239.16.20.39:10390$IPV4『线路4』
-SiTV 欢笑剧场,http://106.42.108.91:2002/rtp/239.16.10.233:2000$IPV4『线路5』
-SiTV 欢笑剧场,http://106.42.108.91:2002/rtp/239.16.20.39:10390$IPV4『线路6』
+SiTV 欢笑剧场,http://106.42.108.91:2002/rtp/239.16.10.233:2000$IPV4『线路3』
+SiTV 欢笑剧场,http://106.42.108.91:2002/rtp/239.16.20.39:10390$IPV4『线路4』
 SiTV 欢笑剧场-4K,http://148.135.106.175:5000/itv/bestzb/5000000007000010001$IPV4『线路1』
 SiTV 欢笑剧场-4K,http://gslbserv.itv.cmvideo.cn:80/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$IPV4『线路2』
 SiTV 金色学堂,http://148.135.106.175:5000/itv/bestzb/5000000010000026105$IPV4『线路1』
 SiTV 金色学堂,http://gslbserv.itv.cmvideo.cn:80/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3$IPV4『线路2』
-SiTV 金色学堂,http://1.196.154.165:2010/rtp/239.16.20.115:11150$IPV4『线路3』
-SiTV 金色学堂,http://1.196.154.165:2010/rtp/239.16.10.244:2000$IPV4『线路4』
-SiTV 金色学堂,http://106.42.108.91:2002/rtp/239.16.20.115:11150$IPV4『线路5』
-SiTV 金色学堂,http://106.42.108.91:2002/rtp/239.16.10.244:2000$IPV4『线路6』
+SiTV 金色学堂,http://106.42.108.91:2002/rtp/239.16.20.115:11150$IPV4『线路3』
+SiTV 金色学堂,http://106.42.108.91:2002/rtp/239.16.10.244:2000$IPV4『线路4』
 SiTV 劲爆体育,http://148.135.106.175:5000/itv/bestzb/5000000002000029972$IPV4『线路1』
 SiTV 劲爆体育,http://gslbserv.itv.cmvideo.cn:80/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3$IPV4『线路2』
 SiTV 乐游,http://148.135.106.175:5000/itv/bestzb/5000000011000031112$IPV4『线路1』
 SiTV 乐游,http://gslbserv.itv.cmvideo.cn:80/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3$IPV4『线路2』
-SiTV 乐游,http://1.196.154.165:2010/rtp/239.16.20.111:11110$IPV4『线路3』
-SiTV 乐游,http://1.196.154.165:2010/rtp/239.16.10.240:2000$IPV4『线路4』
-SiTV 乐游,http://106.42.108.91:2002/rtp/239.16.20.111:11110$IPV4『线路5』
-SiTV 乐游,http://106.42.108.91:2002/rtp/239.16.10.240:2000$IPV4『线路6』
+SiTV 乐游,http://106.42.108.91:2002/rtp/239.16.20.111:11110$IPV4『线路3』
+SiTV 乐游,http://106.42.108.91:2002/rtp/239.16.10.240:2000$IPV4『线路4』
 SiTV 魅力足球,http://148.135.106.175:5000/itv/bestzb/5000000011000031207$IPV4『线路1』
 SiTV 魅力足球,http://gslbserv.itv.cmvideo.cn:80/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$IPV4『线路2』
-SiTV 魅力足球,http://1.196.154.165:2010/rtp/239.16.10.242:2000$IPV4『线路3』
-SiTV 魅力足球,http://106.42.108.91:2002/rtp/239.16.10.242:2000$IPV4『线路4』
+SiTV 魅力足球,http://106.42.108.91:2002/rtp/239.16.10.242:2000$IPV4『线路3』
 SiTV 七彩戏剧,http://148.135.106.175:5000/itv/bestzb/5000000011000031116$IPV4『线路1』
 SiTV 七彩戏剧,http://gslbserv.itv.cmvideo.cn:80/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3$IPV4『线路2』
 SiTV 生活时尚,http://148.135.106.175:5000/itv/bestzb/5000000002000019634$IPV4『线路1』
 SiTV 生活时尚,http://gslbserv.itv.cmvideo.cn:80/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3$IPV4『线路2』
-SiTV 生活时尚,http://1.196.154.165:2010/rtp/239.16.20.114:11140$IPV4『线路3』
-SiTV 生活时尚,http://1.196.154.165:2010/rtp/239.16.10.243:2000$IPV4『线路4』
-SiTV 生活时尚,http://106.42.108.91:2002/rtp/239.16.20.114:11140$IPV4『线路5』
-SiTV 生活时尚,http://106.42.108.91:2002/rtp/239.16.10.243:2000$IPV4『线路6』
+SiTV 生活时尚,http://106.42.108.91:2002/rtp/239.16.20.114:11140$IPV4『线路3』
+SiTV 生活时尚,http://106.42.108.91:2002/rtp/239.16.10.243:2000$IPV4『线路4』
 SiTV 游戏风云,http://148.135.106.175:5000/itv/bestzb/5000000011000031114$IPV4『线路1』
 SiTV 游戏风云,http://gslbserv.itv.cmvideo.cn:80/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3$IPV4『线路2』
-SiTV 游戏风云,http://1.196.154.165:2010/rtp/239.16.20.112:11120$IPV4『线路3』
-SiTV 游戏风云,http://1.196.154.165:2010/rtp/239.16.10.241:2000$IPV4『线路4』
-SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.20.112:11120$IPV4『线路5』
-SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.10.241:2000$IPV4『线路6』
+SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.20.112:11120$IPV4『线路3』
+SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.10.241:2000$IPV4『线路4』
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPV6『线路1』
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPV6『线路2』
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$IPV6『线路3』
@@ -3752,7 +3735,7 @@ SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.10.241:2000$IPV4『线路
 经典电影,http://221.237.92.253:9999/udp/239.93.0.57:9024$IPV4『线路4』
 经典电影,http://221.237.92.253:9999/udp/239.93.0.57:9024$IPV4『线路5』
 经典电影,http://221.237.92.253:9999/udp/239.93.0.57:9024$IPV4『线路6』
-经典电影,http://221.218.157.61:3527/rtp/239.3.1.195:9024$IPV4『线路7』
+经典电影,http://123.117.36.74:4001/rtp/239.3.1.195:9024$IPV4『线路7』
 经典电影,http://114.254.188.49:9999/rtp/239.3.1.195:9024$IPV4『线路8』
 经典电影,http://42.237.180.245:4000/rtp/225.1.4.175:1233$IPV4『线路9』
 经典电影,http://61.163.181.78:9901/tsfile/live/1059_1.m3u8$IPV4『线路10』
@@ -3762,8 +3745,8 @@ SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.10.241:2000$IPV4『线路
 经典电影,http://116.28.124.202:8520/udp/239.77.1.89:5146$IPV4『线路14』
 经典电影,http://116.22.255.89:9999/udp/239.77.0.104:5146$IPV4『线路15』
 经典电影,http://116.22.255.89:9999/udp/239.77.1.89:5146$IPV4『线路16』
-经典电影,http://116.18.37.171:4000/udp/239.77.0.104:5146$IPV4『线路17』
-经典电影,http://116.18.37.171:4000/udp/239.77.1.89:5146$IPV4『线路18』
+经典电影,http://183.30.199.99:8886/udp/239.77.0.104:5146$IPV4『线路17』
+经典电影,http://183.30.199.99:8886/udp/239.77.1.89:5146$IPV4『线路18』
 经典电影,http://14.21.156.38:8888/udp/239.77.0.104:5146$IPV4『线路19』
 经典电影,http://14.21.156.38:8888/udp/239.77.1.89:5146$IPV4『线路20』
 收藏台,#genre#
@@ -3789,18 +3772,18 @@ SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.10.241:2000$IPV4『线路
 高尔夫网球,http://111.170.82.136:9999/udp/239.69.1.83:10138$IPV4『线路20』
 爱奇谈,http://222.212.152.26:4443/udp/239.93.42.22:5140$IPV4『线路1』
 爱奇谈,http://222.211.162.32:1880/udp/239.93.42.22:5140$IPV4『线路2』
-爱奇谈,http://220.166.249.164:4000/udp/239.93.42.22:5140$IPV4『线路3』
+爱奇谈,http://171.213.194.169:888/udp/239.93.42.22:5140$IPV4『线路3』
 爱奇谈,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路4』
 爱奇谈,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
 爱奇谈,http://171.213.207.159:4022/udp/239.93.42.22:5140$IPV4『线路6』
 爱科幻,http://222.211.162.32:1880/udp/239.93.42.10:5140$IPV4『线路1』
 爱科幻,http://222.212.152.26:4443/udp/239.93.42.10:5140$IPV4『线路2』
-爱科幻,http://220.166.249.164:4000/udp/239.93.42.10:5140$IPV4『线路3』
+爱科幻,http://171.213.194.169:888/udp/239.93.42.10:5140$IPV4『线路3』
 爱科幻,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路4』
 爱科幻,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
 爱科幻,http://171.213.207.159:4022/udp/239.93.42.10:5140$IPV4『线路6』
 爱院线,http://222.212.152.26:4443/udp/239.93.42.11:5140$IPV4『线路1』
-爱院线,http://220.166.249.164:4000/udp/239.93.42.11:5140$IPV4『线路2』
+爱院线,http://171.213.194.169:888/udp/239.93.42.11:5140$IPV4『线路2』
 爱院线,http://222.211.162.32:1880/udp/239.93.42.11:5140$IPV4『线路3』
 爱院线,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路4』
 爱院线,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路5』
@@ -3821,10 +3804,10 @@ SiTV 游戏风云,http://106.42.108.91:2002/rtp/239.16.10.241:2000$IPV4『线路
 爱体育,http://116.22.255.89:9999/udp/239.77.1.116:5146$IPV4『线路14』
 爱体育,http://116.22.255.89:9999/udp/239.77.0.108:5146$IPV4『线路15』
 爱体育,http://116.22.255.89:9999/udp/239.77.1.77:5146$IPV4『线路16』
-爱体育,http://116.18.37.171:4000/udp/239.77.0.176:5146$IPV4『线路17』
-爱体育,http://116.18.37.171:4000/udp/239.77.1.116:5146$IPV4『线路18』
-爱体育,http://116.18.37.171:4000/udp/239.77.0.108:5146$IPV4『线路19』
-爱体育,http://116.18.37.171:4000/udp/239.77.1.77:5146$IPV4『线路20』
+爱体育,http://183.30.199.99:8886/udp/239.77.0.176:5146$IPV4『线路17』
+爱体育,http://183.30.199.99:8886/udp/239.77.1.116:5146$IPV4『线路18』
+爱体育,http://183.30.199.99:8886/udp/239.77.0.108:5146$IPV4『线路19』
+爱体育,http://183.30.199.99:8886/udp/239.77.1.77:5146$IPV4『线路20』
 爱历史,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路1』
 爱历史,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路2』
 爱旅行,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D$IPV4『线路1』
