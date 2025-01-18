@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2025-01-18 14:38:58
+更新时间: 2025-01-19 02:38:15
 
 收藏台,#genre#
 高尔夫网球,http://49.77.104.103:8554/udp/239.49.0.154:9226$IPV4『线路1』
@@ -14,8 +14,8 @@ CHC高清电影,http://221.196.34.247:4022/udp/225.1.1.214:5002$IPV4『线路3�
 CHC高清电影,http:///udp/239.76.245.242:1234$IPV4『线路4』
 CHC高清电影,http:///udp/239.76.245.242:1234$IPV4『线路5』
 CHC高清电影,http:///udp/239.76.245.242:1234$IPV4『线路6』
-CHC高清电影,http://www.erbao1981.top:8188/rtp/239.76.245.242:1234$IPV4『线路7』
-CHC高清电影,http://ha.xushining.com:50000/udp/225.1.1.214:5002$IPV4『线路8』
+CHC高清电影,http://ha.xushining.com:50000/udp/225.1.1.214:5002$IPV4『线路7』
+CHC高清电影,http://www.erbao1981.top:8188/rtp/239.76.245.242:1234$IPV4『线路8』
 CHC高清电影,http://ha.xushining.com:50000/udp/225.1.1.214:5002$IPV4『线路9』
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$IPV6『线路1』
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$IPV6『线路2』
@@ -29,16 +29,16 @@ CHC家庭影院,http://221.196.34.247:4022/udp/225.1.1.213:5002$IPV4『线路9�
 CHC家庭影院,http:///udp/239.76.245.241:1234$IPV4『线路10』
 CHC家庭影院,http:///udp/239.76.245.241:1234$IPV4『线路11』
 CHC家庭影院,http:///udp/239.76.245.241:1234$IPV4『线路12』
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8$IPV4『线路13』
-CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8$IPV4『线路14』
-CHC家庭影院,http://www.erbao1981.top:8188/rtp/239.76.245.241:1234$IPV4『线路15』
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$IPV4『线路16』
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$IPV4『线路17』
-CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$IPV4『线路18』
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路19』
-CHC家庭影院,http://ha.xushining.com:50000/udp/225.1.1.213:5002$IPV4『线路20』
-CHC家庭影院,http://ha.xushining.com:50000/udp/225.1.1.213:5002$IPV4『线路21』
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$IPV4『线路22』
+CHC家庭影院,http://www.erbao1981.top:8188/rtp/239.76.245.241:1234$IPV4『线路13』
+CHC家庭影院,http://ha.xushining.com:50000/udp/225.1.1.213:5002$IPV4『线路14』
+CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$IPV4『线路15』
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路16』
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$IPV4『线路17』
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$IPV4『线路18』
+CHC家庭影院,http://ha.xushining.com:50000/udp/225.1.1.213:5002$IPV4『线路19』
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$IPV4『线路20』
+CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8$IPV4『线路21』
+CHC家庭影院,https://pi.0472.org/chc/jt.m3u8$IPV4『线路22』
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2888&tk=2894ccdba8fc$IPV4『线路23』
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0934&tk=2894ccdba8fc$IPV4『线路24』
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1088&tk=2894ccdba8fc$IPV4『线路25』
@@ -64,16 +64,16 @@ CHC动作电影,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.16:9616$IPV4『线路19
 CHC动作电影,http:///udp/239.76.245.243:1234$IPV4『线路20』
 CHC动作电影,http:///udp/239.76.245.243:1234$IPV4『线路21』
 CHC动作电影,http:///udp/239.76.245.243:1234$IPV4『线路22』
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$IPV4『线路23』
-CHC动作电影,http://www.erbao1981.top:8188/rtp/239.76.245.243:1234$IPV4『线路24』
-CHC动作电影,http://ha.xushining.com:50000/udp/225.1.1.215:5002$IPV4『线路25』
-CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$IPV4『线路26』
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$IPV4『线路27』
-CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$IPV4『线路28』
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$IPV4『线路29』
-CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$IPV4『线路30』
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8$IPV4『线路31』
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路32』
+CHC动作电影,http://www.erbao1981.top:8188/rtp/239.76.245.243:1234$IPV4『线路23』
+CHC动作电影,https://pi.0472.org/chc/dz.m3u8$IPV4『线路24』
+CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$IPV4『线路25』
+CHC动作电影,http://ha.xushining.com:50000/udp/225.1.1.215:5002$IPV4『线路26』
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路27』
+CHC动作电影,http://ha.xushining.com:50000/udp/225.1.1.215:5002$IPV4『线路28』
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$IPV4『线路29』
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$IPV4『线路30』
+CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$IPV4『线路31』
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$IPV4『线路32』
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2$IPV6『线路1』
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2$IPV6『线路2』
 CHC影迷电影,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$IPV6『线路3』
@@ -770,9 +770,9 @@ Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$IPV4『线路1』
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$IPV4『线路2』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路1』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路2』
-CNA,http://quan2018.mycloudnas.com:51888/play/a00n/index.m3u8$IPV4『线路3』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路4』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路5』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路3』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路4』
+CNA,http://quan2018.mycloudnas.com:51888/play/a00n/index.m3u8$IPV4『线路5』
 CNA,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$IPV4『线路6』
 CNA,p3p://108.181.32.169:40821/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路7』
 香港,#genre#
