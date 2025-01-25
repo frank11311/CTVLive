@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2025-01-25 02:41:06
+# 更新时间: 2025-01-25 14:38:51
 
 #EXTINF:-1 tvg-id="1" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/高尔夫网球.png" group-title="收藏台",高尔夫网球
 http://49.77.104.103:8554/udp/239.49.0.154:9226$IPV4『线路1』
@@ -188,15 +188,15 @@ http://61.55.46.35:4022/rtp/239.253.92.113:8066$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/世界地理.png" group-title="收藏台",世界地理
 http://61.55.13.136:4000/rtp/239.253.92.113:8066$IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/世界地理.png" group-title="收藏台",世界地理
-http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=177$IPV4『线路5』
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7161&tk=b53028476470$IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/世界地理.png" group-title="收藏台",世界地理
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7161&tk=b53028476470$IPV4『线路6』
+http://livetv.wqwqwq.sbs/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv$IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/世界地理.png" group-title="收藏台",世界地理
 https://pi.0472.org/live/sjdl.m3u8?token=162210$IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/世界地理.png" group-title="收藏台",世界地理
 http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172003.m3u8$IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/世界地理.png" group-title="收藏台",世界地理
-http://livetv.wqwqwq.sbs/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv$IPV4『线路9』
+http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=177$IPV4『线路9』
 #EXTINF:-1 tvg-id="1" tvg-name="兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵器科技.png" group-title="收藏台",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵器科技.png" group-title="收藏台",兵器科技
@@ -240,11 +240,11 @@ http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=225$IPV
 #EXTINF:-1 tvg-id="9" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
 http://livetv.wqwqwq.sbs/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv$IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
-http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$IPV4『线路10』
+http://183.11.239.36:808/hls/133/index.m3u8$IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
 http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
-http://183.11.239.36:808/hls/133/index.m3u8$IPV4『线路12』
+http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
 http://113.236.31.149:9901/tsfile/live/1122_1.m3u8$IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
@@ -258,13 +258,13 @@ http://113.195.5.165:9901/tsfile/live/1049_1.m3u8$IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
 http://61.243.161.199:9901/tsfile/live/1122_1.m3u8$IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
-p2p://starvod.xyz:19806/5a2bb8458dbb4f5aaa5af0e1d2c4018e$IPV4『线路19』
+http://118.251.60.185:8888/udp/239.76.254.52:9000$IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
-http://118.251.60.185:8888/udp/239.76.254.52:9000$IPV4『线路20』
+http://121.29.111.242:8888/rtp/239.253.92.110:8061$IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
-http://121.29.111.242:8888/rtp/239.253.92.110:8061$IPV4『线路21』
+http://61.55.46.35:4022/rtp/239.253.92.110:8061$IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云足球.png" group-title="收藏台",风云足球
-http://61.55.46.35:4022/rtp/239.253.92.110:8061$IPV4『线路22』
+http://61.55.13.136:4000/rtp/239.253.92.110:8061$IPV4『线路22』
 #EXTINF:-1 tvg-id="1" tvg-name="风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云音乐.png" group-title="收藏台",风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/风云音乐.png" group-title="收藏台",风云音乐

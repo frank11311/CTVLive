@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2025-01-25 02:41:06
+更新时间: 2025-01-25 14:38:51
 
 收藏台,#genre#
 高尔夫网球,http://49.77.104.103:8554/udp/239.49.0.154:9226$IPV4『线路1』
@@ -95,11 +95,11 @@ CHC影迷电影,http://183.94.146.109:2222/tsfile/live/1020_1.m3u8$IPV4『线路
 世界地理,http://121.29.111.242:8888/rtp/239.253.92.113:8066$IPV4『线路2』
 世界地理,http://61.55.46.35:4022/rtp/239.253.92.113:8066$IPV4『线路3』
 世界地理,http://61.55.13.136:4000/rtp/239.253.92.113:8066$IPV4『线路4』
-世界地理,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=177$IPV4『线路5』
-世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7161&tk=b53028476470$IPV4『线路6』
+世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7161&tk=b53028476470$IPV4『线路5』
+世界地理,http://livetv.wqwqwq.sbs/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv$IPV4『线路6』
 世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210$IPV4『线路7』
 世界地理,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172003.m3u8$IPV4『线路8』
-世界地理,http://livetv.wqwqwq.sbs/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv$IPV4『线路9』
+世界地理,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=177$IPV4『线路9』
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$IPV6『线路1』
 兵器科技,http://121.29.111.242:8888/rtp/239.253.92.119:8065$IPV4『线路2』
 兵器科技,http://61.55.46.35:4022/rtp/239.253.92.119:8065$IPV4『线路3』
@@ -121,19 +121,19 @@ CHC影迷电影,http://183.94.146.109:2222/tsfile/live/1020_1.m3u8$IPV4『线路
 风云足球,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8$IPV4『线路7』
 风云足球,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=225$IPV4『线路8』
 风云足球,http://livetv.wqwqwq.sbs/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv$IPV4『线路9』
-风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$IPV4『线路10』
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8$IPV4『线路10』
 风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$IPV4『线路11』
-风云足球,http://183.11.239.36:808/hls/133/index.m3u8$IPV4『线路12』
+风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$IPV4『线路12』
 风云足球,http://113.236.31.149:9901/tsfile/live/1122_1.m3u8$IPV4『线路13』
 风云足球,http://113.236.17.12:9901/tsfile/live/1122_1.m3u8$IPV4『线路14』
 风云足球,http://163.177.122.122:9901/tsfile/live/1095_1.m3u8$IPV4『线路15』
 风云足球,http://163.177.122.71:9901/tsfile/live/1095_1.m3u8$IPV4『线路16』
 风云足球,http://113.195.5.165:9901/tsfile/live/1049_1.m3u8$IPV4『线路17』
 风云足球,http://61.243.161.199:9901/tsfile/live/1122_1.m3u8$IPV4『线路18』
-风云足球,p2p://starvod.xyz:19806/5a2bb8458dbb4f5aaa5af0e1d2c4018e$IPV4『线路19』
-风云足球,http://118.251.60.185:8888/udp/239.76.254.52:9000$IPV4『线路20』
-风云足球,http://121.29.111.242:8888/rtp/239.253.92.110:8061$IPV4『线路21』
-风云足球,http://61.55.46.35:4022/rtp/239.253.92.110:8061$IPV4『线路22』
+风云足球,http://118.251.60.185:8888/udp/239.76.254.52:9000$IPV4『线路19』
+风云足球,http://121.29.111.242:8888/rtp/239.253.92.110:8061$IPV4『线路20』
+风云足球,http://61.55.46.35:4022/rtp/239.253.92.110:8061$IPV4『线路21』
+风云足球,http://61.55.13.136:4000/rtp/239.253.92.110:8061$IPV4『线路22』
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$IPV6『线路1』
 风云音乐,http://121.29.111.242:8888/rtp/239.253.92.111:8060$IPV4『线路2』
 风云音乐,http://61.55.46.35:4022/rtp/239.253.92.111:8060$IPV4『线路3』
