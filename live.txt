@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2025-01-31 02:40:48
+更新时间: 2025-01-31 14:42:07
 
 收藏台,#genre#
 高尔夫网球,http://49.77.104.103:8554/udp/239.49.0.154:9226$IPV4『线路1』
@@ -78,28 +78,30 @@ CHC影迷电影,http://tvbox6.icu/tv/iptv2.php?id=88$IPV4『线路10』
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8$IPV4『线路11』
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv$IPV4『线路12』
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路13』
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8$IPV4『线路14』
-CHC影迷电影,http://111.8.242.126:9999/tsfile/live/1072_1.m3u8$IPV4『线路15』
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$IPV4『线路16』
-CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088$IPV4『线路17』
-CHC影迷电影,mitv://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1$IPV4『线路18』
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8$IPV4『线路19』
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-10.m3u8$IPV4『线路20』
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-11.m3u8$IPV4『线路21』
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv$IPV4『线路22』
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-13.ctv$IPV4『线路23』
+CHC影迷电影,http://1.82.144.44:4022/rtp/239.112.205.206:5140$IPV4『线路14』
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8$IPV4『线路15』
+CHC影迷电影,http://111.8.242.126:9999/tsfile/live/1072_1.m3u8$IPV4『线路16』
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$IPV4『线路17』
+CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088$IPV4『线路18』
+CHC影迷电影,mitv://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1$IPV4『线路19』
+CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8$IPV4『线路20』
+CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-10.m3u8$IPV4『线路21』
+CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-11.m3u8$IPV4『线路22』
+CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv$IPV4『线路23』
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8$IPV6『线路1』
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8$IPV6『线路2』
 世界地理,http://121.29.111.242:8888/rtp/239.253.92.113:8066$IPV4『线路3』
 世界地理,http://61.55.46.35:4022/rtp/239.253.92.113:8066$IPV4『线路4』
 世界地理,http://61.55.13.136:4000/rtp/239.253.92.113:8066$IPV4『线路5』
-世界地理,http://121.19.134.10:4022/udp/239.253.92.113:8066$IPV4『线路6』
-世界地理,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=177$IPV4『线路7』
-世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210$IPV4『线路8』
-世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3042&tk=f6cc1e0a0e1a$IPV4『线路9』
-世界地理,http://tvbox6.com/tv/bfgd.php?id=177$IPV4『线路10』
-世界地理,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_SHIJIEDL-CQ$IPV4『线路11』
+世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3042&tk=f6cc1e0a0e1a$IPV4『线路6』
+世界地理,http://tvbox6.com/tv/bfgd.php?id=177$IPV4『线路7』
+世界地理,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_SHIJIEDL-CQ$IPV4『线路8』
+世界地理,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=177$IPV4『线路9』
+世界地理,http://121.19.134.10:4022/udp/239.253.92.113:8066$IPV4『线路10』
+世界地理,http://1.82.144.44:4022/rtp/239.111.205.71:5140$IPV4『线路11』
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8$IPV4『线路12』
+世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210$IPV4『线路13』
+世界地理,http://zhancheng.x3322.net:6699/live/1087/index.m3u8$IPV4『线路14』
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$IPV6『线路1』
 兵器科技,http://121.29.111.242:8888/rtp/239.253.92.119:8065$IPV4『线路2』
 兵器科技,http://61.55.46.35:4022/rtp/239.253.92.119:8065$IPV4『线路3』
@@ -126,16 +128,18 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-13.ctv$IPV4『�
 风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a$IPV4『线路12』
 风云足球,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=225$IPV4『线路13』
 风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$IPV4『线路14』
-风云足球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$IPV4『线路15』
-风云足球,http://121.29.111.242:8888/rtp/239.253.92.110:8061$IPV4『线路16』
-风云足球,http://61.55.46.35:4022/rtp/239.253.92.110:8061$IPV4『线路17』
-风云足球,http://61.55.13.136:4000/rtp/239.253.92.110:8061$IPV4『线路18』
-风云足球,http://121.19.134.10:4022/udp/239.253.92.110:8061$IPV4『线路19』
-风云足球,http://183.11.239.36:808/hls/133/index.m3u8$IPV4『线路20』
-风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a$IPV4『线路21』
-风云足球,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=225$IPV4『线路22』
-风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$IPV4『线路23』
-风云足球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$IPV4『线路24』
+风云足球,http://zhancheng.x3322.net:6699/live/1080/index.m3u8$IPV4『线路15』
+风云足球,http://58.57.21.166:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路16』
+风云足球,http://1.82.144.44:4022/rtp/239.111.205.68:5140$IPV4『线路17』
+风云足球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$IPV4『线路18』
+风云足球,http://121.29.111.242:8888/rtp/239.253.92.110:8061$IPV4『线路19』
+风云足球,http://61.55.46.35:4022/rtp/239.253.92.110:8061$IPV4『线路20』
+风云足球,http://61.55.13.136:4000/rtp/239.253.92.110:8061$IPV4『线路21』
+风云足球,http://121.19.134.10:4022/udp/239.253.92.110:8061$IPV4『线路22』
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8$IPV4『线路23』
+风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a$IPV4『线路24』
+风云足球,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=225$IPV4『线路25』
+风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$IPV4『线路26』
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$IPV6『线路1』
 风云音乐,http://121.29.111.242:8888/rtp/239.253.92.111:8060$IPV4『线路2』
 风云音乐,http://61.55.46.35:4022/rtp/239.253.92.111:8060$IPV4『线路3』
@@ -147,7 +151,8 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-13.ctv$IPV4『�
 央视台球,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228683/index.m3u8$IPV6『线路4』
 央视台球,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/1/224/3221228683/index.m3u8$IPV6『线路5』
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8$IPV4『线路6』
-央视台球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_TAIQIU-CQ$IPV4『线路7』
+央视台球,http://1.82.144.44:4022/rtp/239.111.205.70:5140$IPV4『线路7』
+央视台球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_TAIQIU-CQ$IPV4『线路8』
 CCTV-兵器科技,http://home.dzlove.top:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv$IPV4『线路1』
 CCTV-兵器科技,http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路2』
 CCTV-兵器科技,http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路3』
@@ -703,9 +708,9 @@ ELEVEN1,http://211.72.65.236:8566/.m3u8$IPV4
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$IPV4『线路1』
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$IPV4『线路2』
 CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012$IPV4『线路3』
-CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$IPV4『线路4』
+CN卡通,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61$IPV4『线路4』
 CN卡通,p3p://167.114.175.6:55331/61ded38e000d52023d43f93e0ee00012$IPV4『线路5』
-CN卡通,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61$IPV4『线路6』
+CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$IPV4『线路6』
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8$IPV4『线路1』
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8$IPV4『线路2』
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd$IPV4『线路1』
@@ -779,7 +784,7 @@ CNA,http://quan2018.mycloudnas.com:51888/play/a00n/index.m3u8$IPV4『线路3』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路4』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路5』
 CNA,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$IPV4『线路6』
-CNA,p3p://108.181.32.169:28312/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路7』
+CNA,p3p://108.181.32.169:52348/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路7』
 CNA,p3p://167.114.175.6:55331/64be9bb50006c1b519c62cba356951a9$IPV4『线路8』
 香港,#genre#
 TVB 星河,https://tv.iill.top/IPTV/xh$IPV4
@@ -825,7 +830,7 @@ Thrill,p3p://108.181.32.169:46313/644a0879000272f67a89b6687af342ae$IPV4『线路
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8$IPV4『线路6』
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8$IPV4『线路7』
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8$IPV4『线路8』
-Thrill,p3p://108.181.32.169:28312/644a0879000272f67a89b6687af342ae$IPV4『线路9』
+Thrill,p3p://108.181.32.169:52348/644a0879000272f67a89b6687af342ae$IPV4『线路9』
 Thrill,https://stream1.freetv.fun/thrill-2.m3u8$IPV4『线路10』
 Thrill,https://stream1.freetv.fun/thrill-4.m3u8$IPV4『线路11』
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8$IPV4『线路12』
@@ -847,11 +852,12 @@ Cinemax,p3p://167.114.175.6:55331/64ce039d0009f00b55f3e422778f3af3$IPV4
 One,https://tv.iill.top/IPTV/one$IPV4
 Documentary,#genre#
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8$IPV4
-美食星球,p3p://173.208.176.178:31809/62c9a5620009f165c6a22320701370b6$IPV4『线路1』
-美食星球,p3p://108.181.32.169:28312/6425252400079076ea72985811e07306$IPV4『线路2』
+美食星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foodplanet$IPV4『线路1』
+美食星球,p3p://167.114.175.6:55331/62c9a5620009f165c6a22320701370b6$IPV4『线路2』
 美食星球,mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0$IPV4『线路3』
-美食星球,p3p://167.114.175.6:55331/62c9a5620009f165c6a22320701370b6$IPV4『线路4』
-美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn$IPV4『线路5』
+美食星球,http://ku9.fr.to/smt.php?id=foodplanet_twn$IPV4『线路4』
+美食星球,p3p://173.208.176.178:31809/62c9a5620009f165c6a22320701370b6$IPV4『线路5』
+美食星球,p3p://108.181.32.169:52348/6425252400079076ea72985811e07306$IPV4『线路6』
 新闻,#genre#
 ABC News,https://lnc-abc-news.tubi.video/index.m3u8$IPV4『线路1』
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8$IPV4『线路2』
