@@ -1,5 +1,5 @@
 更新时间,#genre#
-更新时间: 2025-02-10 14:42:54
+更新时间: 2025-02-11 02:40:48
 
 收藏台,#genre#
 高尔夫网球,http://49.77.104.103:8554/udp/239.49.0.154:9226$IPV4『线路1』
@@ -124,47 +124,47 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv$IPV4『�
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$IPV6『线路1』
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8$IPV4『线路2』
 央视台球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_TAIQIU-CQ$IPV4『线路3』
-CCTV-兵器科技,http://www.terrykang.xyz:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-兵器科技,http://106.46.147.61:10443/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-兵器科技,http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路2』
 CCTV-兵器科技,http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路3』
 CCTV-兵器科技,http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路4』
-CCTV-第一剧场,http://www.terrykang.xyz:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-第一剧场,http://106.46.147.61:10443/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-第一剧场,http://221.196.34.247:4022/udp/225.1.2.175:5002$IPV4『线路2』
 CCTV-第一剧场,http://221.196.34.247:4022/udp/225.1.2.175:5002$IPV4『线路3』
 CCTV-第一剧场,http://221.196.34.247:4022/udp/225.1.2.175:5002$IPV4『线路4』
-CCTV-风云足球,http://www.terrykang.xyz:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-风云足球,http://106.46.147.61:10443/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-风云足球,http://221.196.34.247:4022/udp/225.1.2.168:5002$IPV4『线路2』
 CCTV-风云足球,http://221.196.34.247:4022/udp/225.1.2.168:5002$IPV4『线路3』
 CCTV-风云足球,http://221.196.34.247:4022/udp/225.1.2.168:5002$IPV4『线路4』
-CCTV-世界地理,http://www.terrykang.xyz:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-世界地理,http://106.46.147.61:10443/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-世界地理,http://221.196.34.247:4022/udp/225.1.2.171:5002$IPV4『线路2』
 CCTV-世界地理,http://221.196.34.247:4022/udp/225.1.2.171:5002$IPV4『线路3』
 CCTV-世界地理,http://221.196.34.247:4022/udp/225.1.2.171:5002$IPV4『线路4』
-CCTV-央视台球,http://www.terrykang.xyz:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-央视台球,http://106.46.147.61:10443/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-央视台球,http://221.196.34.247:4022/udp/225.1.2.170:5002$IPV4『线路2』
 CCTV-央视台球,http://221.196.34.247:4022/udp/225.1.2.170:5002$IPV4『线路3』
 CCTV-央视台球,http://221.196.34.247:4022/udp/225.1.2.170:5002$IPV4『线路4』
-CCTV-央视高网,http://www.terrykang.xyz:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-央视高网,http://106.46.147.61:10443/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-央视高网,http://www.terrykang.xyz:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv$IPV4『线路2』
 CCTV-央视高网,http://home.dzlove.top:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv$IPV4『线路3』
-CCTV-风云音乐,http://www.terrykang.xyz:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-风云音乐,http://106.46.147.61:10443/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-风云音乐,http://221.196.34.247:4022/udp/225.1.2.176:5002$IPV4『线路2』
 CCTV-风云音乐,http://221.196.34.247:4022/udp/225.1.2.176:5002$IPV4『线路3』
 CCTV-风云音乐,http://221.196.34.247:4022/udp/225.1.2.176:5002$IPV4『线路4』
-CCTV-风云剧场,http://www.terrykang.xyz:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-风云剧场,http://106.46.147.61:10443/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-风云剧场,http://221.196.34.247:4022/udp/225.1.2.174:5002$IPV4『线路2』
 CCTV-风云剧场,http://221.196.34.247:4022/udp/225.1.2.174:5002$IPV4『线路3』
 CCTV-风云剧场,http://221.196.34.247:4022/udp/225.1.2.174:5002$IPV4『线路4』
-CCTV-怀旧剧场,http://www.terrykang.xyz:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-怀旧剧场,http://106.46.147.61:10443/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-怀旧剧场,http://221.196.34.247:4022/udp/225.1.2.173:5002$IPV4『线路2』
 CCTV-怀旧剧场,http://221.196.34.247:4022/udp/225.1.2.173:5002$IPV4『线路3』
 CCTV-怀旧剧场,http://221.196.34.247:4022/udp/225.1.2.173:5002$IPV4『线路4』
-CCTV-文化精品,http://www.terrykang.xyz:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv$IPV4
-CCTV-女性时尚,http://www.terrykang.xyz:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-文化精品,http://106.46.147.61:10443/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4
+CCTV-女性时尚,http://106.46.147.61:10443/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-女性时尚,http://221.196.34.247:4022/udp/225.1.2.172:5002$IPV4『线路2』
 CCTV-女性时尚,http://221.196.34.247:4022/udp/225.1.2.172:5002$IPV4『线路3』
 CCTV-女性时尚,http://221.196.34.247:4022/udp/225.1.2.172:5002$IPV4『线路4』
-CCTV-电视指南,http://www.terrykang.xyz:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv$IPV4『线路1』
+CCTV-电视指南,http://106.46.147.61:10443/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 CCTV-电视指南,http://221.196.34.247:4022/udp/225.1.2.167:5002$IPV4『线路2』
 CCTV-电视指南,http://221.196.34.247:4022/udp/225.1.2.167:5002$IPV4『线路3』
 CCTV-电视指南,http://221.196.34.247:4022/udp/225.1.2.167:5002$IPV4『线路4』
@@ -328,8 +328,8 @@ Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$IPV4
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$IPV4
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路1』
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路2』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路3』
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路4』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路3』
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路4』
 CNA,p3p://108.181.32.169:15361/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路5』
 香港,#genre#
 英国,#genre#

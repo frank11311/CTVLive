@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-# 更新时间: 2025-02-10 14:42:54
+# 更新时间: 2025-02-11 02:40:48
 
 #EXTINF:-1 tvg-id="1" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/高尔夫网球.png" group-title="收藏台",高尔夫网球
 http://49.77.104.103:8554/udp/239.49.0.154:9226$IPV4『线路1』
@@ -246,7 +246,7 @@ http://183.11.239.36:808/hls/73/index.m3u8$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/央视台球.png" group-title="收藏台",央视台球
 http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_TAIQIU-CQ$IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="收藏台",CCTV-兵器科技
-http://www.terrykang.xyz:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="收藏台",CCTV-兵器科技
 http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="收藏台",CCTV-兵器科技
@@ -254,7 +254,7 @@ http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-兵器科技" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-兵器科技.png" group-title="收藏台",CCTV-兵器科技
 http://221.196.34.247:4022/udp/225.1.2.166:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="收藏台",CCTV-第一剧场
-http://www.terrykang.xyz:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="收藏台",CCTV-第一剧场
 http://221.196.34.247:4022/udp/225.1.2.175:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="收藏台",CCTV-第一剧场
@@ -262,7 +262,7 @@ http://221.196.34.247:4022/udp/225.1.2.175:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-第一剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-第一剧场.png" group-title="收藏台",CCTV-第一剧场
 http://221.196.34.247:4022/udp/225.1.2.175:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="收藏台",CCTV-风云足球
-http://www.terrykang.xyz:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="收藏台",CCTV-风云足球
 http://221.196.34.247:4022/udp/225.1.2.168:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="收藏台",CCTV-风云足球
@@ -270,7 +270,7 @@ http://221.196.34.247:4022/udp/225.1.2.168:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-风云足球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云足球.png" group-title="收藏台",CCTV-风云足球
 http://221.196.34.247:4022/udp/225.1.2.168:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="收藏台",CCTV-世界地理
-http://www.terrykang.xyz:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="收藏台",CCTV-世界地理
 http://221.196.34.247:4022/udp/225.1.2.171:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="收藏台",CCTV-世界地理
@@ -278,7 +278,7 @@ http://221.196.34.247:4022/udp/225.1.2.171:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-世界地理" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-世界地理.png" group-title="收藏台",CCTV-世界地理
 http://221.196.34.247:4022/udp/225.1.2.171:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="收藏台",CCTV-央视台球
-http://www.terrykang.xyz:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="收藏台",CCTV-央视台球
 http://221.196.34.247:4022/udp/225.1.2.170:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="收藏台",CCTV-央视台球
@@ -286,13 +286,13 @@ http://221.196.34.247:4022/udp/225.1.2.170:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-央视台球" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视台球.png" group-title="收藏台",CCTV-央视台球
 http://221.196.34.247:4022/udp/225.1.2.170:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-央视高网" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视高网.png" group-title="收藏台",CCTV-央视高网
-http://www.terrykang.xyz:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-央视高网" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视高网.png" group-title="收藏台",CCTV-央视高网
 http://www.terrykang.xyz:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-央视高网" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-央视高网.png" group-title="收藏台",CCTV-央视高网
 http://home.dzlove.top:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv$IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="收藏台",CCTV-风云音乐
-http://www.terrykang.xyz:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="收藏台",CCTV-风云音乐
 http://221.196.34.247:4022/udp/225.1.2.176:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="收藏台",CCTV-风云音乐
@@ -300,7 +300,7 @@ http://221.196.34.247:4022/udp/225.1.2.176:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-风云音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云音乐.png" group-title="收藏台",CCTV-风云音乐
 http://221.196.34.247:4022/udp/225.1.2.176:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="收藏台",CCTV-风云剧场
-http://www.terrykang.xyz:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="收藏台",CCTV-风云剧场
 http://221.196.34.247:4022/udp/225.1.2.174:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="收藏台",CCTV-风云剧场
@@ -308,7 +308,7 @@ http://221.196.34.247:4022/udp/225.1.2.174:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-风云剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-风云剧场.png" group-title="收藏台",CCTV-风云剧场
 http://221.196.34.247:4022/udp/225.1.2.174:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="收藏台",CCTV-怀旧剧场
-http://www.terrykang.xyz:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="收藏台",CCTV-怀旧剧场
 http://221.196.34.247:4022/udp/225.1.2.173:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="收藏台",CCTV-怀旧剧场
@@ -316,9 +316,9 @@ http://221.196.34.247:4022/udp/225.1.2.173:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-怀旧剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-怀旧剧场.png" group-title="收藏台",CCTV-怀旧剧场
 http://221.196.34.247:4022/udp/225.1.2.173:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-文化精品" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-文化精品.png" group-title="收藏台",CCTV-文化精品
-http://www.terrykang.xyz:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv$IPV4
+http://106.46.147.61:10443/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="收藏台",CCTV-女性时尚
-http://www.terrykang.xyz:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="收藏台",CCTV-女性时尚
 http://221.196.34.247:4022/udp/225.1.2.172:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="收藏台",CCTV-女性时尚
@@ -326,7 +326,7 @@ http://221.196.34.247:4022/udp/225.1.2.172:5002$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-女性时尚" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-女性时尚.png" group-title="收藏台",CCTV-女性时尚
 http://221.196.34.247:4022/udp/225.1.2.172:5002$IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="收藏台",CCTV-电视指南
-http://www.terrykang.xyz:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv$IPV4『线路1』
+http://106.46.147.61:10443/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="收藏台",CCTV-电视指南
 http://221.196.34.247:4022/udp/225.1.2.167:5002$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-电视指南" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-电视指南.png" group-title="收藏台",CCTV-电视指南
@@ -650,9 +650,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="2" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路3』
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$IPV4『线路4』
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CNA" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CNA.png" group-title="新加坡",CNA
 p3p://108.181.32.169:15361/6426077a00093ea7ede6b8b64d6d4c6e$IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="Boomerang" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Boomerang.png" group-title="英国",Boomerang
